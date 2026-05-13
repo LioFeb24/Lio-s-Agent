@@ -13,10 +13,8 @@ env/
 .venv/
 venv/
 
-# Runtime state and generated outputs
-EXEC/
-MEMORY/
-session_state/
-
 # Local configuration with secrets
 config.json
+
+# Local publish script
+local_publish.ps1
