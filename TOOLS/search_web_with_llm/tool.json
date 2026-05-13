@@ -1,0 +1,138 @@
+{
+    "name": "search_web_with_llm",
+    "display_name": "网页搜索并同步落地本地文件",
+    "description": "按关键词聚合搜索网页内容，默认直接返回完整整理文本，并同步写入本地 txt 文件。",
+    "enabled": true,
+    "aliases": [
+        "web_search_llm",
+        "search_web"
+    ],
+    "entry": {
+        "file": "search_web_with_llm.py",
+        "function": "run"
+    },
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "keyword": {
+                "type": "string",
+                "description": "要搜索的关键词"
+            },
+            "llm_summary_enabled": {
+                "type": "boolean",
+                "description": "是否启用 LLM 整理，默认 true"
+            },
+            "per_engine_limit": {
+                "type": "integer",
+                "description": "单个搜索源最大结果数，默认 4"
+            },
+            "total_limit": {
+                "type": "integer",
+                "description": "聚合去重后的最大结果数，默认 9"
+            },
+            "write_to_file": {
+                "type": "boolean",
+                "description": "是否默认写入本地 txt 文件，默认 true"
+            },
+            "include_inline_content": {
+                "type": "boolean",
+                "description": "兼容旧字段；为 true 时额外返回结构化搜索结果与原始内容字段，默认 false"
+            },
+            "output_dir": {
+                "type": "string",
+                "description": "可选的 txt 输出目录；未提供时默认写入工具目录下 outputs"
+            },
+            "no_llm": {
+                "type": "boolean",
+                "description": "旧兼容字段；为 true 时关闭 LLM 整理"
+            }
+        },
+        "required": [
+            "keyword"
+        ],
+        "additionalProperties": false
+    },
+    "output_schema": {
+        "type": "object",
+        "properties": {
+            "tool_name": {
+                "type": "string"
+            },
+            "keyword": {
+                "type": "string"
+            },
+            "llm_summary_enabled": {
+                "type": "boolean"
+            },
+            "search_result_count": {
+                "type": "integer"
+            },
+            "deep_result_count": {
+                "type": "integer"
+            },
+            "write_to_file": {
+                "type": "boolean"
+            },
+            "include_inline_content": {
+                "type": "boolean"
+            },
+            "search_errors": {
+                "type": "array"
+            },
+            "output_file": {
+                "type": "string"
+            },
+            "final_report_preview": {
+                "type": "string"
+            },
+            "search_results": {
+                "type": "array"
+            },
+            "deep_results": {
+                "type": "array"
+            },
+            "raw_report": {
+                "type": "string"
+            },
+            "final_report": {
+                "type": "string"
+            },
+            "final_report_text": {
+                "type": "string",
+                "description": "与 final_report 等价的完整最终文本"
+            },
+            "llm_summary": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "tool_name",
+            "keyword",
+            "llm_summary_enabled",
+            "write_to_file",
+            "include_inline_content",
+            "search_result_count",
+            "deep_result_count",
+            "search_errors",
+            "output_file",
+            "final_report_preview",
+            "search_results",
+            "deep_results",
+            "raw_report",
+            "final_report",
+            "final_report_text",
+            "llm_summary"
+        ]
+    },
+    "examples": {
+        "tool_command": {
+            "name": "search_web_with_llm",
+            "args": {
+                "keyword": "人工智能",
+                "llm_summary_enabled": true,
+                "write_to_file": true,
+                "include_inline_content": false
+            }
+        }
+    }
+}

@@ -1,0 +1,138 @@
+关键词: Hermes agent 架构
+生成时间: 2026-04-29 19:45:29
+LLM整理: 开启
+聚合结果数: 9
+深抓取结果数: 9
+
+===== LLM整理结果 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: 架构 | Hermes Agent 中文社区
+单页整理结果: 基于网页“架构 | Hermes Agent 中文社区”的内容，整理关键信息如下：该页面是Hermes Agent内部结构的顶层概览。核心组件包括：同步编排引擎（AIAgent），负责提供者选择、提示词构建、工具执行、重试、降级与压缩，支持三种API模式。运行时解析器用于CLI、网关等，将(provider, model)映射为(api_mode, api_key, base_url)，支持18+提供者。中央工具注册表包含20个工具集中的47个注册工具，支持6种后端。会话存储基于SQLite，支持FTS5全文搜索和传承追踪。长期运行进程包含14个平台适配器。插件有三种发现来源，存在记忆提供者和上下文引擎两种专用插件类型，均为单选。支持原生Agent任务。通过stdio/JSON-RPC暴露给VS Code、Zed和JetBrains。提供评估与强化学习训练框架。依赖链表明工具注册在导入时完成。此外，提示词构建系统从个性设定、记忆、技能等来源组装系统提示词，并支持前缀缓存和上下文压缩。
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 架构拆解：会复盘、可成长的 Agent，到底 ...
+单页整理结果: Hermes Agent架构围绕Agent自身执行循环设计，核心是让Agent在一轮对话中用好工具并积累经验。它通过接入Telegram、Discord、Slack等平台，消息经网关调度到Agent。与其它架构不同，Hermes不侧重消息传递，而是强调Agent的工具使用和经验复盘，使其能够成长。页面信息有限，未提供具体技术细节或对比图内容。
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 架构全解：自进化单体智能体的学习循环与四 ...
+单页整理结果: Hermes Agent 是由 Nous Research 开发的开源 AI 智能体，具备自动学习进化能力。其核心架构包括将成功工作流转化为可复用技能的能力，以及一个四层内存系统以实现高效记忆管理。该智能体支持多平台适配、定时自动化任务和会话持久化，适合需要长期运行的智能助手场景。特点还包括128K大上下文窗口和Nebius Token Factory托管服务。页面主要内容止于此，无更详细架构说明。
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: 深度解析 Hermes Agent 架构：双驱“自进化”机制与 Harness ...
+单页整理结果: 根据页面内容，Hermes Agent架构的核心是双驱“自进化”机制，旨在通过动态反馈循环打破模型能力上限。其架构设计从Prompt、Context以及Harness三个核心工程维度展开。双轮驱动机制涉及通过反馈循环自动学习和优化，使Agent具备自进化能力。文章强调解析了构建生产级Agent系统的架构设计哲学，但未提供具体的技术细节或代码实现。
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent vs OpenClaw:两大开源 AI Agent 框架深度技术对比
+单页整理结果: 该网页无法直接抓取内容，仅提供搜索摘要信息。摘要显示，Hermes Agent 采用三层架构设计。此外，该内容来自一篇对比 Hermes Agent 与 OpenClaw 两大开源 AI Agent 框架的技术文章。但页面具体架构细节、各层功能、参数、优势与限制条件等信息因抓取失败而缺失。根据现有信息，仅能得出 Hermes Agent 具备三层架构这一基本事实，无法进行更深入的技术细节整理。
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 技术 架构 深度解析:110K+ Star,自进化 AI Agent 架构 设计
+单页整理结果: 根据搜索摘要，页面内容抓取失败，仅能依据有限摘要信息整理。关于“Hermes Agent 架构”，摘要指出其系统架构总览中的关键设计决策之一是将Agent循环和工具执行放在同一进程，该功能通过run_agent.py中的AIAgent类进行管理。页面标题提及该项目拥有110K+ Star，且为自进化AI Agent架构设计。除此之外，页面未提供更多关于Hermes Agent架构的具体细节、原理或限制条件。因此，当前信息有限，无法进行更深入的架构解析。
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: 三大AI Agent 框架深度对比:Evo Agent X vs Hermes vs OpenClaw
+单页整理结果: 无法从指定网页中提取到关于“Hermes agent 架构”的详细内容，因为页面内容抓取失败。根据搜索摘要，该框架的核心架构围绕“统一运行时”与“自学习循环”设计，但具体细节（如模块构成、组件关系、工作流程）均未提供。因此，无法给出更深入的架构描述。
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 架构 分析
+单页整理结果: 页面抓取失败。根据搜索摘要，该页面内容涉及一个名为“Hermes Agent”的AI Agent框架，其架构设计在复杂性管理和灵活性之间取得了平衡，并强调了可扩展性和安全性。页面作者为“逍遥环游记”，发布时间标注为“1776646861”。除此之外，页面未提供更多具体信息，如架构细节、组件、工作原理或应用场景等。因此，关于“Hermes Agent架构”的详细整理内容有限。
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent 架构 拆解:可成长的 Agent 到底怎么实现的_服务软件_什么...
+单页整理结果: 页面内容介绍了Hermes Agent架构，强调这是一套支持长期使用、持续沉淀和自我改进的Agent系统。核心设计目标是实现可成长的Agent，而非简单的AI命令行工具。页面信息有限，仅提供了上述概述性的关键点，未详细拆解具体架构组件、运作机制或实现方法。发布时间为2026年4月12日，来自smzdm.com。
+
+===== 原始深抓取内容 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: 架构 | Hermes Agent 中文社区
+搜索链接: https://hermesagent.org.cn/docs/developer-guide/architecture
+落地链接: https://hermesagent.org.cn/docs/developer-guide/architecture
+页面标题: 架构 | Hermes Agent 中文社区
+页面内容: Docusaurus v3.9.2"> 架构 | Hermes Agent 中文社区 <meta data-rh=
+本页是 Hermes Agent 内部结构的顶层概览。请使用它来了解代码库的整体布局，然后深入各个子系统文档以获取实现细节。
+同步编排引擎（ run_agent.py 中的 AIAgent ）。负责提供者选择、提示词构建、工具执行、重试、降级、回调、压缩和持久化。支持三种 API 模式，以适配不同的提供者后端。
+CLI、网关、定时任务、ACP 和辅助调用共用的运行时解析器。将 (provider, model) 元组映射为 (api_mode, api_key, base_url) 。支持 18+ 个提供者，处理 OAuth 流程、凭证池和别名解析。
+中央工具注册表（ tools/registry.py ），包含 20 个工具集中的 47 个已注册工具。每个工具文件在导入时自动注册。注册表负责模式收集、分发、可用性检查和错误包装。终端工具支持 6 种后端（本地、Docker、SSH、Daytona、Modal、Singularity）。
+基于 SQLite 的会话存储，支持 FTS5 全文搜索。会话具备传承追踪（压缩过程中的父子关系）、跨平台隔离，以及带竞争处理的原子写入。
+长期运行的进程，包含 14 个平台适配器，统一会话路由、用户授权（白名单 + 私信配对）、斜杠命令分发、钩子系统、定时任务触发和后台维护。
+三种发现来源： ~/.hermes/plugins/ （用户级）、 .hermes/plugins/ （项目级）和 pip 入口点。插件通过上下文 API 注册工具、钩子和 CLI 命令。存在两种专用插件类型：记忆提供者（ plugins/memory/ ）和上下文引擎（ plugins/context_engine/ ）。两者均为单选 —— 每次只能激活一个，通过 hermes plugins 或 config.yaml 配置。
+原生的 Agent 任务（非 shell 任务）。任务以 JSON 格式存储，支持多种调度格式，可附加技能和脚本，并可发送至任意平台。
+通过 stdio/JSON-RPC 将 Hermes 作为编辑器原生 Agent 暴露给 VS Code、Zed 和 JetBrains。
+完整的环境框架，用于评估与强化学习训练。与 Atropos 集成，支持多种工具调用解析器，并生成 ShareGPT 格式的轨迹。
+该依赖链意味着工具注册在导入时完成，早于任何 Agent 实例的创建。添加新工具需要在 model_tools.py 的 _discover_tools() 列表中添加导入。
+As Thought Reaches, So Action Arrives.
+Hermes Agent 中文社区 · AI Agent 开发者的聚集地 · A Gathering of Messengers
+prompt_builder.py —— 从以下来源组装系统提示词：个性设定（SOUL.md）、记忆（MEMORY.md、USER.md）、技能、上下文文件（AGENTS.md、.hermes.md）、工具使用指导，以及模型特定指令
+prompt_caching.py —— 为前缀缓存应用 Anthropic 的缓存断点
+context_compressor.py —— 当上下文超过阈值时，对中间对话轮次进行摘要压缩
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 架构拆解：会复盘、可成长的 Agent，到底 ...
+搜索链接: https://zhuanlan.zhihu.com/p/2028892152822863295
+落地链接: https://zhuanlan.zhihu.com/p/2028892152822863295
+页面标题: Hermes Agent 架构拆解：会复盘、可成长的 Agent，到底 ...
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 你接入 Telegram、Discord、Slack，消息都通过网关调度到 Agent。 Hermes 的核心是 Agent 自身的执行循环。 它不是围绕"怎么把消息送到 Agent"来设计的，而是围绕"Agent 怎么在一轮对话里用好工具、积累经验"来设计的。 先用一张图来看看架构差异对比：
+抓取说明: HTTP Error 403: Forbidden
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 架构全解：自进化单体智能体的学习循环与四 ...
+搜索链接: https://cloud.tencent.com/developer/article/2652528
+落地链接: https://cloud.tencent.com/developer/article/2652528
+页面标题: Hermes Agent 架构全解：自进化单体智能体的学习循环与四层内存设计-腾讯云开发者社区-腾讯云
+页面内容: HermesAgent是NousResearch开发的开源AI智能体，具备自动学习进化能力。它能将成功的工作流转化为可复用技能，通过四层内存系统实现高效记忆管理。支持多平台适配、定时自动化任务和会话持久化，特别适合需要长期运行的智能助手场景。128K大上下文窗口和NebiusTokenFactory托管服务使其成为处理...
+原创声明：本文系作者授权腾讯云开发者社区发表，未经许可，不得转载。
+如有侵权，请联系 cloudcommunity@tencent.com 删除。
+Copyright © 2013 - 2026 Tencent Cloud. All Rights Reserved. 腾讯云 版权所有
+深圳市腾讯计算机系统有限公司 ICP备案/许可证号： 粤B2-20090059 粤公网安备44030502008569号
+腾讯云计算（北京）有限责任公司 京ICP证150476号 | 京ICP备11018762号
+Copyright © 2013 - 2026 Tencent Cloud.
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: 深度解析 Hermes Agent 架构：双驱“自进化”机制与 Harness ...
+搜索链接: https://www.51cto.com/aigc/11719.html
+落地链接: https://www.51cto.com/aigc/11719.html
+页面标题: 深度解析 Hermes Agent 架构：双驱“自进化”机制与 Harness ...
+页面内容: 本文将剥离其表层的应用功能，深入其源码底层，全面剖析 Hermes 如何通过双轮驱动的“自进化”机制打破模型能力上限，并从 Prompt、Context 以及 Harness 三个核心工程维度，解析其构建生产级 Agent 系统的架构设计哲学。
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent vs OpenClaw:两大开源 AI Agent 框架深度技术对比
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9f0F5NSmq5pWyEZL9a1Wt-M0MBJ8CB8HLaKKQZnGrObT4zpF7FSG7VhFAsLf4AUccAxqSAqRcV882u2qap3CYIGFTxlBVwx1GN_l-hajl1NyZ-OQvGrDKv1iDOUUXo0aD0Ds28W1wCYDLn10OPTYM_ZibzxSGKu47onc6_ZmqMvVAe0f8bRARvQ..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9f0F5NSmq5pWyEZL9a1Wt-M0MBJ8CB8HLaKKQZnGrObT4zpF7FSG7VhFAsLf4AUccAxqSAqRcV882u2qap3CYIGFTxlBVwx1GN_l-hajl1NyZ-OQvGrDKv1iDOUUXo0aD0Ds28W1wCYDLn10OPTYM_ZibzxSGKu47onc6_ZmqMvVAe0f8bRARvQ..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+页面标题: Hermes Agent vs OpenClaw:两大开源 AI Agent 框架深度技术对比
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 整体 架构 Hermes Agent :三层 架构 设计┌────────────────────────────────────────... CHENG的学习笔记 document.write(timeConvert('1776351354'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9f0F5NSmq5pWyEZL9a1Wt-M0MBJ8CB8HLaKKQZnGrObT4zpF7FSG7VhFAsLf4AUccAxqSAqRcV882u2qap3CYIGFTxlBVwx1GN_l-hajl1NyZ-OQvGrDKv1iDOUUXo0aD0Ds28W1wCYDLn10OPTYM_ZibzxSGKu47onc6_ZmqMvVAe0f8bRARvQ..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45' (found at least ' ')
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 技术 架构 深度解析:110K+ Star,自进化 AI Agent 架构 设计
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9AnuE75zhl-BtCQw8HDGecBSQAfYBYHII-92AZ6IlJFjP9UnIHToZBIRTDa5xshqCGP9R-3tNEIxPZJ4c-7mSE9VHHJEp3SZDg7zPMg6PYW5TAGZDDZZRB-zv5fDeF8qykw8VUa8Br3S-FHwfK4nMiTmlfVnjTwsAttGK0gcIHmdFkDr8IT4KYw..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9AnuE75zhl-BtCQw8HDGecBSQAfYBYHII-92AZ6IlJFjP9UnIHToZBIRTDa5xshqCGP9R-3tNEIxPZJ4c-7mSE9VHHJEp3SZDg7zPMg6PYW5TAGZDDZZRB-zv5fDeF8qykw8VUa8Br3S-FHwfK4nMiTmlfVnjTwsAttGK0gcIHmdFkDr8IT4KYw..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+页面标题: Hermes Agent 技术 架构 深度解析:110K+ Star,自进化 AI Agent 架构 设计
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 1: Hermes Agent 系统 架构 总览 架构 上的几个关键设计决策: Agent 循环和工具执行在同一进程:通过 run_ agent .py 中的 AIAgent 类管... 运维研习院 document.write(timeConvert('1776904283'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9AnuE75zhl-BtCQw8HDGecBSQAfYBYHII-92AZ6IlJFjP9UnIHToZBIRTDa5xshqCGP9R-3tNEIxPZJ4c-7mSE9VHHJEp3SZDg7zPMg6PYW5TAGZDDZZRB-zv5fDeF8qykw8VUa8Br3S-FHwfK4nMiTmlfVnjTwsAttGK0gcIHmdFkDr8IT4KYw..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45' (found at least ' ')
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: 三大AI Agent 框架深度对比:Evo Agent X vs Hermes vs OpenClaw
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd984DPb1QLBika5whffDmLGq_KTk_gItOswx91PiLEoP9dK9O6sNDzQdOqvoguu8WC1A0ALD6vn022l51czZczAxQ8gFa_dTp17r_oUrIFmYYMM73jzzLZ59Uxw9QQIE36OytM9QA9J5LQZpKWYZKlhmIZt1Jch0x_1V-ErwevCVVhlgeRt7bSzA..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd984DPb1QLBika5whffDmLGq_KTk_gItOswx91PiLEoP9dK9O6sNDzQdOqvoguu8WC1A0ALD6vn022l51czZczAxQ8gFa_dTp17r_oUrIFmYYMM73jzzLZ59Uxw9QQIE36OytM9QA9J5LQZpKWYZKlhmIZt1Jch0x_1V-ErwevCVVhlgeRt7bSzA..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+页面标题: 三大AI Agent 框架深度对比:Evo Agent X vs Hermes vs OpenClaw
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: Hermes Agent :统一运行时 + 自学习循环 Hermes Agent 的 架构 围绕 自学习循环(Self-Improving Learning Loop) 设计:核心设计理念... 天天投学 document.write(timeConvert('1777414594'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd984DPb1QLBika5whffDmLGq_KTk_gItOswx91PiLEoP9dK9O6sNDzQdOqvoguu8WC1A0ALD6vn022l51czZczAxQ8gFa_dTp17r_oUrIFmYYMM73jzzLZ59Uxw9QQIE36OytM9QA9J5LQZpKWYZKlhmIZt1Jch0x_1V-ErwevCVVhlgeRt7bSzA..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45' (found at least ' ')
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 架构 分析
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9KtT8mk7ExhEBHLrXVKNqnm4kmWaNWtBKRYcSNMJhdS9LG45NHsOn4oE9-KnycX-nFb4rSthVhwaEl8Kb6uju3umlJjigYwSVMDveOJ2SOE6uOwXzdQGS_hJMoJ-k7m7usIBSHAmsx_sx1GxsqB7BHD8qbCSzZEQamsfRcWm28QP0OK9DLfgmPA..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9KtT8mk7ExhEBHLrXVKNqnm4kmWaNWtBKRYcSNMJhdS9LG45NHsOn4oE9-KnycX-nFb4rSthVhwaEl8Kb6uju3umlJjigYwSVMDveOJ2SOE6uOwXzdQGS_hJMoJ-k7m7usIBSHAmsx_sx1GxsqB7BHD8qbCSzZEQamsfRcWm28QP0OK9DLfgmPA..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45
+页面标题: Hermes Agent 架构 分析
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: AI Agent 框架,其 架构 设计在复杂性管理和灵活性之间取得了较好的导向、以可扩展性为骨架、以安全性为底线的工业级 AI Agent 框... 逍遥环游记 document.write(timeConvert('1776646861'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g0TqjQqSbAh38_NVT0j4TOFqXa8Fplpd9KtT8mk7ExhEBHLrXVKNqnm4kmWaNWtBKRYcSNMJhdS9LG45NHsOn4oE9-KnycX-nFb4rSthVhwaEl8Kb6uju3umlJjigYwSVMDveOJ2SOE6uOwXzdQGS_hJMoJ-k7m7usIBSHAmsx_sx1GxsqB7BHD8qbCSzZEQamsfRcWm28QP0OK9DLfgmPA..&type=2&query=Hermes agent %E6%9E%B6%E6%9E%84&token=278CC17EC78F20E39690C70176AFE64797BDC2E369F1EF45' (found at least ' ')
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent 架构 拆解:可成长的 Agent 到底怎么实现的_服务软件_什么...
+搜索链接: https://www.so.com/link?m=exe6oyRO2yzFO3dmWIgwhSwq4wKx4eN3Hxc5xutFItC3ts%2FlqdqUAMXCipKHCM8NIZ7VsOkrszsbgTjYhbXlquGT3YX1MaPDpBs%2BdALK7aY7ThcZFT2hG%2BRFmXpx82EFlH7nuO5unF9hPu7Vbslt1jfZyjUeBOCV5
+落地链接: https://www.so.com/link?m=exe6oyRO2yzFO3dmWIgwhSwq4wKx4eN3Hxc5xutFItC3ts%2FlqdqUAMXCipKHCM8NIZ7VsOkrszsbgTjYhbXlquGT3YX1MaPDpBs%2BdALK7aY7ThcZFT2hG%2BRFmXpx82EFlH7nuO5unF9hPu7Vbslt1jfZyjUeBOCV5
+页面标题: Hermes Agent 架构 拆解:可成长的 Agent 到底怎么实现的_服务软件_什么...
+页面内容: 2026年4月12日 - AI 命令行工具,而是一套强调长期使用、持续沉淀和自我改进的 Agent 系统。该系统的核心在于其 架构 设计能够支持 A Hermes Agent 架构 拆解:可... post.smzdm.com 反馈

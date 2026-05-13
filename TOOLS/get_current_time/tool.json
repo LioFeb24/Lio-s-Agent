@@ -1,0 +1,73 @@
+{
+    "name": "get_current_time",
+    "display_name": "获取指定时区时间",
+    "description": "根据 IANA 时区名返回当前时间，输出标准化 JSON，适合作为项目 TOOL 模板。",
+    "enabled": true,
+    "aliases": [
+        "time_now",
+        "timezone_time"
+    ],
+    "entry": {
+        "file": "get_current_time.py",
+        "function": "run"
+    },
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "timezone": {
+                "type": "string",
+                "description": "IANA 时区名，例如 Asia/Shanghai、UTC、America/New_York"
+            }
+        },
+        "required": [
+            "timezone"
+        ],
+        "additionalProperties": false
+    },
+    "output_schema": {
+        "type": "object",
+        "properties": {
+            "tool_name": {
+                "type": "string"
+            },
+            "timezone": {
+                "type": "string"
+            },
+            "timezone_abbreviation": {
+                "type": "string"
+            },
+            "utc_offset": {
+                "type": "string"
+            },
+            "current_time": {
+                "type": "string",
+                "description": "当前时区时间的 ISO 8601 顶层兼容字段，等价于 local_time.iso8601"
+            },
+            "local_time": {
+                "type": "object"
+            },
+            "utc_time": {
+                "type": "object"
+            },
+            "unix_timestamp": {
+                "type": "integer"
+            }
+        },
+        "required": [
+            "tool_name",
+            "timezone",
+            "current_time",
+            "local_time",
+            "utc_time",
+            "unix_timestamp"
+        ]
+    },
+    "examples": {
+        "tool_command": {
+            "name": "get_current_time",
+            "args": {
+                "timezone": "Asia/Shanghai"
+            }
+        }
+    }
+}

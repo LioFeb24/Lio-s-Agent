@@ -1,0 +1,126 @@
+{
+    "name": "txt_to_md",
+    "display_name": "TXT 转 Markdown",
+    "description": "读取本地 txt 文件并转换为 md 文件，支持自动推导输出路径、可选标题和稳定的结构化结果。",
+    "enabled": true,
+    "aliases": [
+        "convert_txt_to_md",
+        "text_to_markdown",
+        "txt_markdown"
+    ],
+    "entry": {
+        "file": "txt_to_md.py",
+        "function": "run"
+    },
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "source_file_path": {
+                "type": "string",
+                "description": "源 txt 文件路径，支持绝对路径和相对路径"
+            },
+            "output_file_path": {
+                "type": "string",
+                "description": "目标 md 文件路径；未提供时默认与源文件同目录同名改为 .md"
+            },
+            "title": {
+                "type": "string",
+                "description": "可选标题；提供后会作为 Markdown 一级到六级标题写入文件顶部"
+            },
+            "heading_level": {
+                "type": "integer",
+                "description": "标题级别，范围 1-6，默认 1；仅在提供 title 时生效"
+            },
+            "encoding": {
+                "type": "string",
+                "description": "源文件读取编码，默认 utf-8"
+            },
+            "output_encoding": {
+                "type": "string",
+                "description": "目标文件写入编码，默认与 encoding 一致"
+            },
+            "newline": {
+                "type": "string",
+                "enum": [
+                    "auto",
+                    "lf",
+                    "crlf"
+                ],
+                "description": "输出换行风格，默认 auto"
+            },
+            "overwrite": {
+                "type": "boolean",
+                "description": "目标文件已存在时是否覆盖，默认 true"
+            }
+        },
+        "required": [
+            "source_file_path"
+        ],
+        "additionalProperties": false
+    },
+    "output_schema": {
+        "type": "object",
+        "properties": {
+            "tool_name": {
+                "type": "string"
+            },
+            "source_path": {
+                "type": "string"
+            },
+            "output_path": {
+                "type": "string"
+            },
+            "title_applied": {
+                "type": "boolean"
+            },
+            "heading_level": {
+                "type": "integer"
+            },
+            "overwritten": {
+                "type": "boolean"
+            },
+            "line_count": {
+                "type": "integer"
+            },
+            "char_count": {
+                "type": "integer"
+            },
+            "bytes_written": {
+                "type": "integer"
+            },
+            "encoding": {
+                "type": "string"
+            },
+            "output_encoding": {
+                "type": "string"
+            },
+            "message": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "tool_name",
+            "source_path",
+            "output_path",
+            "title_applied",
+            "heading_level",
+            "overwritten",
+            "line_count",
+            "char_count",
+            "bytes_written",
+            "encoding",
+            "output_encoding",
+            "message"
+        ]
+    },
+    "examples": {
+        "tool_command": {
+            "name": "txt_to_md",
+            "args": {
+                "source_file_path": "docs/notes.txt",
+                "title": "会议纪要",
+                "heading_level": 1
+            }
+        }
+    }
+}

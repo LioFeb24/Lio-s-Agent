@@ -1,0 +1,139 @@
+关键词: Hermes agent architecture
+生成时间: 2026-04-29 19:21:51
+LLM整理: 开启
+聚合结果数: 9
+深抓取结果数: 9
+
+===== LLM整理结果 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: 清风 的想法: 超强开源 Agent 推荐：Hermes Agent 深度体验 ...
+单页整理结果: 该页面抓取失败，内容缺失，仅能依据搜索摘要：摘要提及Nous Research开源的Hermes Agent在GitHub上线不到两个月获得近3万星，文章进行了深度体验并与OpenClaw全面对比，社区反响强烈。无其他关键事实、时间、主体或限制条件。页面信息有限。
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: 明星 AI 项目 Hermes Agent 被曝抄袭中国团队，涉事公司 ...
+单页整理结果: 页面信息有限。该网页标题和摘要提及了一起涉及明星AI项目Hermes Agent的抄袭指控，发生于2026年4月14日，中国团队在X平台发布技术对比报告，指控一个GitHub上8万Star的开源项目存在“架构级抄袭”。涉事方为硅谷团队背书的Hermes Agent与中国原创自进化引擎。争议焦点在于谁是第一个做的。除此之外，页面未提供任何关于Hermes Agent具体架构、技术细节或后续发展的信息。
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Hermes叫爱马仕，为什么赫尔墨斯不翻译成爱尔梅斯呢? - 知乎
+单页整理结果: 页面信息有限。基于搜索摘要，该网页内容讨论的是“Hermes”的中文翻译问题：“Hermes叫爱马仕，为什么赫尔墨斯不翻译成爱尔梅斯呢？”其中提到作者在最终幻想游戏中接触到的“艾尔梅斯之靴”与后来知道的“赫尔墨斯”之间的发音差异，并指出日文假名エルメ斯对应拉丁字母为Her...。由于页面内容未成功抓取，无法提供更多详细信息。
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: 如何评价爱马仕 (Hermès)的一款叫大地 (TERRE)的香水？
+单页整理结果: 该页面内容是关于爱马仕“大地”香水系列的评价，而非“Hermes agent architecture”。页面详细介绍了大地的五个版本：EDT版（2006年）、香精版（2009年）、雨后大地清新版（2014年）、香根草版（2018年）和霜冻大地（2022年）。前三个版本由调香师Jean-Claude Ellena调制，后两个由Christine Nagel调制。页面从气味感受、香气结构、留香时间和外观包装四个角度对比了这些版本，并引用了《调香师日记》中的描述。页面提到，EDT和香精版更成熟适合正式场合，清新版和霜冻版更清新适合年轻人，香根草版介于两者之间。留香时间方面，淡香版、香根草版和霜冻版约7-8小时，清新版和香精版约6小时。页面还区分了外观，如EDT版瓶身印有红色字样。整体内容为香水评价，与“agent architecture”无关。
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent vs OpenClaw:八大工程维度深度对比
+单页整理结果: 页面信息有限。搜索摘要仅提及Hermes Agent架构及其GitHub链接为https://github.com/nousresearch/hermes-agent，并与OpenClaw在八大工程维度进行深度对比。未提供更多关于Hermes Agent架构的具体细节、设计原则或功能描述。无法基于此内容进行深入整理。
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: 从一次性对话到自我进化: Hermes Agent 架构拆解与落地实践
+单页整理结果: 页面内容抓取失败。从搜索摘要可知，Hermes Agent 是 Harness Engineering 概念第一次完整产品化的产物，它不是一个简单的套壳聊天机器人，而是带有缰绳（即控制机制）的产品。摘要未提供具体架构细节、设计原理或落地实践信息。综上，该页面信息有限，无法整理出关于Hermes Agent架构的详细内容。
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 内置技能完整介绍 开箱即用
+单页整理结果: 该页面内容抓取失败，仅能基于搜索摘要提供有限信息。搜索标题为“Hermes Agent 内置技能完整介绍 开箱即用”，摘要提及了Hermes Agent的类别技能列表，包括核心技能、创意设计技能（如architecture-diagram、ascii-art、ascii-video、excalidraw、ideation、p5js、popular-web等）以及碎言网络功能。没有任何关于Hermes Agent架构的具体描述，页面信息有限。
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 团队协作Skill设计与实现
+单页整理结果: 根据页面内容，未能成功抓取到具体网页信息，仅能使用搜索摘要作为兜底内容。摘要提到：Hermes Agent 具有双层记忆架构（Dual-layer Memory Architecture）和非侵入式设计（Non-invasive Design）。该开源智能体框架已应用于代码生成、数据分析等领域。页面信息有限，无法提供更多关于“Hermes agent architecture”的详细内容。
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent 架构深度解析:最先进的开源 AI Agent 操作系统??? Hermes ...
+单页整理结果: 根据网页内容，Hermes Agent 是一个事件驱动的分层架构系统，结合了插件化设计和微服务化组件模式。页面提到了一个名为hermes-architecture的HTML文件进行详细说明，但该文件的具体内容并未在此页面中展示。因此，关于该架构的更多细节、关键组件或工作原理等信息有限。页面还包含对掘金网站的反馈链接，但未提供更多架构描述。
+
+===== 原始深抓取内容 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: 清风 的想法: 超强开源 Agent 推荐：Hermes Agent 深度体验 ...
+搜索链接: https://www.zhihu.com/pin/2025201939302860199
+落地链接: https://www.zhihu.com/pin/2025201939302860199
+页面标题: 清风 的想法: 超强开源 Agent 推荐：Hermes Agent 深度体验 ...
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 超强开源 Agent 推荐：Hermes Agent 深度体验，附与 OpenClaw 全面对比 | 这几天被 Nous Research 开源的 Hermes Agent刷屏了，上线不到俩月 GitHub 狂揽近 3 万星！自己装上跑了一下，确实有点东西。社区都在喊这…
+抓取说明: HTTP Error 403: Forbidden
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: 明星 AI 项目 Hermes Agent 被曝抄袭中国团队，涉事公司 ...
+搜索链接: https://www.zhihu.com/question/2027860789587911481
+落地链接: https://www.zhihu.com/question/2027860789587911481
+页面标题: 明星 AI 项目 Hermes Agent 被曝抄袭中国团队，涉事公司 ...
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 2026年4月14日，中国团队在X平台扔出一份技术对比报告。 36天后，一份GitHub上8万Star的开源项目，被指控"架构级抄袭"。 硅谷团队背书的明星项目Hermes Agent，对阵中国原创自进化引擎。 区别只有一个：谁是第一个做的。
+抓取说明: HTTP Error 403: Forbidden
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Hermes叫爱马仕，为什么赫尔墨斯不翻译成爱尔梅斯呢? - 知乎
+搜索链接: https://www.zhihu.com/question/1927054442634641858
+落地链接: https://www.zhihu.com/question/1927054442634641858
+页面标题: Hermes叫爱马仕，为什么赫尔墨斯不翻译成爱尔梅斯呢? - 知乎
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: Hermes叫爱马仕，为什么赫尔墨斯不翻译成爱尔梅斯呢? 我小时候玩最终幻想，有一个道具叫做艾尔梅斯之靴，日文假名エルメス，这个名字我从FF2念到FF13，直到FF14，我才知道这个念赫尔墨斯，对应的拉丁字母… 显示全部 关注者 6
+抓取说明: HTTP Error 403: Forbidden
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: 如何评价爱马仕 (Hermès)的一款叫大地 (TERRE)的香水？
+搜索链接: https://www.zhihu.com/tardis/bd/ans/2233751253
+落地链接: https://www.zhihu.com/tardis/bd/ans/2233751253
+页面标题: 如何评价爱马仕(Hermès)的一款叫大地(TERRE)的香水？
+页面内容: 首先，我想告诉你的是，这款叫做大地的香水目前在市面上一共有5个版本，分别是：EDT版（2006年）、香精版（2009年）、雨后大地清新版（2014年）、香根草版（2018年）、以及霜冻大地（2022年），这前三个版本是由爱马仕御用调香师Jean-Claude Ellena调制而成，最后两个版本则是由2016年的接任者Christine Nagel调制而成。
+总体而言，爱马仕大地的EDT淡香水版、香精版更加成熟、收敛一些，很适合正式工作场合使用；雨后大地清新版、霜冻大地更加清新，年轻化一些，更适合初入职场的童靴；而至于香根草版，我觉得是介于这两类之间，味道变得更加富有个性一些，也可以买来尝试。
+下面我以经典的EDT淡香水版本为参照，从 气味感受、香气结构图、留香时间区别、外观包装区别 这4个角度详细对比、分析并评价了这5款香水。如果你想看自己感兴趣的内容，也都可以点击目录快速直达相应的板块。
+我们在这里先看看由Jean-Claude Ellena本人撰写的这本《调香师日记》（对香水感兴趣的朋友可以自行前往阅读）里对大地的描述评价：
+在某评测网站上大地甚至打出9.8分的高分，几乎无差评的常年霸占Top1，而当面对Noseknows提问怎么看待大地成为历史上最畅销的香水之一，取得商业上的巨大成功时，他本人则是这样回答：
+中间插一段煽情的文字，其实我蛮想把这句话献给在看各位且包括我自己，无论你做文字创作还是视频创作还是其他产品设计等，又或者是这些内容的受众，创作者如果想取得短暂的成功，不可否认的是，他们几乎将大多数钱砸向了市场调查和市场营销上面；而作为受众者，你所能看到百万+点赞、优秀产品等内容其实都是凤毛麟角。我当然也喜欢每个人看到后能点赞、收藏、写下评论以及购买我推荐的香水，但是我却并不会讨好每个人。
+看完作者本人以及大量群众的五星评价，我想大地对你的吸引力已经不用我写任何“吹彩虹屁”的评语来鼓励你，你也会毫不犹豫买下这款香水。但很不幸的是，我是个客观公正的评论者，不吹不黑，在你购买之前，我的评论至少可以让更加全面地了解这款香水。
+开头的柑橘味道，清凉而短暂，其实很符合成熟男性也同样具有活力的特点，但毕竟随着年纪渐长、经历增多，水果、花香这种流行的馥奇香调逐渐在和你说再见。而到了中后调，香根草的味道开始变得有些重，这时候就开启了温暖、厚重的木质主调。与墨恋纯净的香根草味道不同的是，调香师聪明的使用了安息香脂，它不仅有防挥发，更有抚慰和兴奋的作用。我觉得这样搭配的目的是在寓意男人也是有生命力的动物，也需要被人激发，被人温柔以待，特别是在工作、人生中遇到逆境时，显得尤为重要。
+整体个过程下来，香气结构仍旧属于常见的葫芦状。但我认为经典就经典在JCE表达这个香气结构的时候，轮廓足够清晰、重点足够突出，并给予了用香者带有足够提示的想象留白。这应该就是大地在香水圈获得空前成功的重要原因之一。
+香精版这款香水虽然是EDT的续作，但是呢，气味上却更像它的长辈。前调的葡萄柚、橙子的清新更加的短暂，它甚至恨不得直接跨过中调，让你立马就看到一颗久经生活磨砺、沉重而内敛的心脏。如果说EDT版还是男人的热烈与成熟，那么香精版则更加的深入到地下，愈加的低调。别人说这款香水三步散也好， 五步散 也罢，这个时候，我认为你无需再像任何不理解你的人解释，你就是那个唯一能支撑自己的那片大地。
+与经典版相比，调香师将前中调的清新柑橘调拉长了一些，然后再用木质香轻轻托底，让柑橘调平稳过渡，就像落下的细雨缓慢着地。虽然香调定义为木质馥奇香调，但是比起其他同类型的香水，大地清新版的散发过程更加有点像一位手法老成娴熟的月子阿姨照顾孩子一样，细腻而有章法。我觉得整个过程好像在告诉即将步入社会的年轻男孩子们：你当然可以张扬、有个性，但无论怎样都要有基本的担当责任为底色。
+使用这款之前，我在想Nagel会用什么方式继承或者超越JCE的3款经典之作，并让别人记住她。在使用之后我便瞬间明白了。这款香根草版并非真的只是如名字这么直白简单，毫无疑问的，香根草仍然是主角，但闻着闻着会发现葡萄柚、香柠檬等的气息总是围绕着这颗香根草，给人感觉又暖又香。没想到老师傅是注重一步一步过渡丝滑，新人却出其不意的玩多线叙事，竟有点不服输的意味在里面。如果让我选的话，就只为了香根草版的勇气，我也一定要投一票。
+我的使用感受：开头是大半个柠檬的清新酸涩、带着一些果香的甜，与杜松子酒的清香味形成了齐头并进的态势。可能是因为与木质主干结合的比较牢固啊，所以，到了中调，基本上就是穿插在木质上的柑橘味、胡椒味逐渐挥发殆尽的过程。而到了尾调处，柑橘味已然离去，木质的主干上仅剩一小段的细木棍、还有几颗胡椒在散发出淡淡的温暖感。
+整个散发过程下来，类似于一脚铁锹下去在结霜的地面铲出了一个断面来。上半部分虽然未达到霜冻、或者冷冽的程度，但也还是可以做到让我神清气爽；中间部分柑橘与木质的紧密结合是我最喜欢的部分，也是这款香水的highlight，很有创意；至于底部，则是木质的由强渐弱，也符合调香师Nagel一贯的谨慎风格。
+此外，为了方便理解新款霜冻大地的由来，以及大地新老版本的衔接，我在这里根据自己的认知展开讲一讲。在我看来，香根草和霜冻大地是Nagel分别在JCE的EDT版和雨后大地的基础进行创作的。这一点从香气结构上不难发现：
+相比雨后大地，霜冻大地在结构上像一把倒放的吉他。它把清新感与木质结合的更加紧密，而木质感本身的散发也变得更谨慎。
+而香根草版相比EDT版，也是类似的穿针引线结构，算是Nagel对大地的初次改良。
+这5款香水的留香时间，淡香版、馥郁香根草版、霜冻大地版在7-8小时以上，而清新版、香精版的留香时间我记得大概6小时左右。基本都是我早上出门，下午下班回来，气味依然在。
+最后呢，我再说下外观上的一些区别，因为各个卖家的文字标题有时标的不统一，或者我们自己买的时候不注意的话，也会买错：
+EDT淡香水版：卖家标题淡香水，瓶身上印着红色的Terre D'Hermes字样；
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent vs OpenClaw:八大工程维度深度对比
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9-gdwGGIOX3GLnmGQZ5ouq_mlORt6xxxG2hKU5pVm4jUHE18HhzEIxXPZj1BeVenFy1cm9uzr51oUx7fQwRU5rGMdWCn8-_GeSCQC_1KgRJ09wPbSaIILLcfv0RKNaWJXTvjk80aMD0Szn9ve8ctfhAhIRh3hPTf0yg26QRIlzzejotuuiAmOIg..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9-gdwGGIOX3GLnmGQZ5ouq_mlORt6xxxG2hKU5pVm4jUHE18HhzEIxXPZj1BeVenFy1cm9uzr51oUx7fQwRU5rGMdWCn8-_GeSCQC_1KgRJ09wPbSaIILLcfv0RKNaWJXTvjk80aMD0Szn9ve8ctfhAhIRh3hPTf0yg26QRIlzzejotuuiAmOIg..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+页面标题: Hermes Agent vs OpenClaw:八大工程维度深度对比
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: -guide/ architecture / Hermes Agent GitHub:https://github.com/nousresearch/ hermes -agentOpenClaw GitHub:https://github.com/... 小象SAAS优选 document.write(timeConvert('1776817583'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9-gdwGGIOX3GLnmGQZ5ouq_mlORt6xxxG2hKU5pVm4jUHE18HhzEIxXPZj1BeVenFy1cm9uzr51oUx7fQwRU5rGMdWCn8-_GeSCQC_1KgRJ09wPbSaIILLcfv0RKNaWJXTvjk80aMD0Szn9ve8ctfhAhIRh3hPTf0yg26QRIlzzejotuuiAmOIg..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE' (found at least ' ')
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: 从一次性对话到自我进化: Hermes Agent 架构拆解与落地实践
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9IHMrnFVzwAvUe95EF81RSYUfJ_hF3dUVYzjAvumtV0SO9rXrGnKCkXyANXbhz_dCrRVMUgKPAgwzhpwaUdzEWdeQ9GKV1yGyNScm65K7U6lobBlw6hUvk9efzUeHWD4gsZUkj7NDrXaOwcjn7oxZN6VdmEvt3qcT7Rovd65PPDICn9lOoZLP2Q..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9IHMrnFVzwAvUe95EF81RSYUfJ_hF3dUVYzjAvumtV0SO9rXrGnKCkXyANXbhz_dCrRVMUgKPAgwzhpwaUdzEWdeQ9GKV1yGyNScm65K7U6lobBlw6hUvk9efzUeHWD4gsZUkj7NDrXaOwcjn7oxZN6VdmEvt3qcT7Rovd65PPDICn9lOoZLP2Q..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+页面标题: 从一次性对话到自我进化: Hermes Agent 架构拆解与落地实践
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: Hermes Agent ,正是 Harness Engineering 概念的第一次完整产品化.这不是又一个套壳聊天机器人.它是第一个出厂就带缰绳、且缰... 洞窝技术 document.write(timeConvert('1776850709'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9IHMrnFVzwAvUe95EF81RSYUfJ_hF3dUVYzjAvumtV0SO9rXrGnKCkXyANXbhz_dCrRVMUgKPAgwzhpwaUdzEWdeQ9GKV1yGyNScm65K7U6lobBlw6hUvk9efzUeHWD4gsZUkj7NDrXaOwcjn7oxZN6VdmEvt3qcT7Rovd65PPDICn9lOoZLP2Q..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE' (found at least ' ')
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 内置技能完整介绍 开箱即用
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9pz8nJaYHj1-S4AV8ymCygMkxdgqhC9lYbrF5Cdh7f9KigoarQwkHUiut3FC0Qhl7qZBq4Cba5T48UQW-mPjAmz1ScxxQ_MxZpanpNRZGPbltcmXtBP1vTvMsHzJ1mwRXjYPxwBPMK5_i5jcRCrqXGScoXZloDkImA8wxwFGr4mjzAjcIGepUqA..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9pz8nJaYHj1-S4AV8ymCygMkxdgqhC9lYbrF5Cdh7f9KigoarQwkHUiut3FC0Qhl7qZBq4Cba5T48UQW-mPjAmz1ScxxQ_MxZpanpNRZGPbltcmXtBP1vTvMsHzJ1mwRXjYPxwBPMK5_i5jcRCrqXGScoXZloDkImA8wxwFGr4mjzAjcIGepUqA..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+页面标题: Hermes Agent 内置技能完整介绍 开箱即用
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 类别技能列表核心 hermes - agent 创意设计 architecture -diagram、ascii-art、ascii-video、excalidraw、ideation、p5js、popular-web-... 碎言网络 document.write(timeConvert('1776903775'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9pz8nJaYHj1-S4AV8ymCygMkxdgqhC9lYbrF5Cdh7f9KigoarQwkHUiut3FC0Qhl7qZBq4Cba5T48UQW-mPjAmz1ScxxQ_MxZpanpNRZGPbltcmXtBP1vTvMsHzJ1mwRXjYPxwBPMK5_i5jcRCrqXGScoXZloDkImA8wxwFGr4mjzAjcIGepUqA..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE' (found at least ' ')
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 团队协作Skill设计与实现
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9yaV9eevvJv4WgXr-1XdCBjt4v8rQMvc0ZJRQZnrFhUnuHEbsKps-dh0amSshh5mpIR_y1M4HpeYwEcXZpnhcT3UhAF5WxXwf0Mtc8_QDOHGguOAnz8-DyE_ceUWYMSJhcZUnulgmWJefvNwdL-7CCsQ_CVW_Jjz3d3e0zHOBaAVAe0f8bRARvQ..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9yaV9eevvJv4WgXr-1XdCBjt4v8rQMvc0ZJRQZnrFhUnuHEbsKps-dh0amSshh5mpIR_y1M4HpeYwEcXZpnhcT3UhAF5WxXwf0Mtc8_QDOHGguOAnz8-DyE_ceUWYMSJhcZUnulgmWJefvNwdL-7CCsQ_CVW_Jjz3d3e0zHOBaAVAe0f8bRARvQ..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE
+页面标题: Hermes Agent 团队协作Skill设计与实现
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: Dual-layer Memory Architecture ; Non-invasive Design; Multi-... Hermes Agent 等为代表的开源智能体框架已在代码生成、数据分... Beamingyou document.write(timeConvert('1777259684'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_gotJzOyT53L_8_NVT0j4TOFqXa8Fplpd9yaV9eevvJv4WgXr-1XdCBjt4v8rQMvc0ZJRQZnrFhUnuHEbsKps-dh0amSshh5mpIR_y1M4HpeYwEcXZpnhcT3UhAF5WxXwf0Mtc8_QDOHGguOAnz8-DyE_ceUWYMSJhcZUnulgmWJefvNwdL-7CCsQ_CVW_Jjz3d3e0zHOBaAVAe0f8bRARvQ..&type=2&query=Hermes agent architecture&token=276E812B4017A6650F165F989CEC44A01090B45469F1E9BE' (found at least ' ')
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent 架构深度解析:最先进的开源 AI Agent 操作系统??? Hermes ...
+搜索链接: https://www.so.com/link?m=wCSVAnQwMYdgfjUWsWZ6i8eQmPLyDdCYV3l1PurATlJkJbmgvc513GhaNH8PgLlRQegKrH9dO0oJT089LYUL6wxosdPnuk9w6hIqz06evBzYNzTHwkxqnq6GNYQkGy0lCWYKH55QzCWNDnAf6YbveuLJwmuZiBAF6
+落地链接: https://www.so.com/link?m=wCSVAnQwMYdgfjUWsWZ6i8eQmPLyDdCYV3l1PurATlJkJbmgvc513GhaNH8PgLlRQegKrH9dO0oJT089LYUL6wxosdPnuk9w6hIqz06evBzYNzTHwkxqnq6GNYQkGy0lCWYKH55QzCWNDnAf6YbveuLJwmuZiBAF6
+页面标题: Hermes Agent 架构深度解析:最先进的开源 AI Agent 操作系统??? Hermes ...
+页面内容: Hermes Agent 是一个事件驱动的分层架构系统,结合了插件化设计和微服务化组件模式。它可以看... hermes-architecture -tech.html](https://queenbeecai.com/html-page/e02a5fb2-54f8-4dc3-bb87-3... juejin.cn 反馈 #mohe-newdict_tran

@@ -1,0 +1,189 @@
+关键词: HermesAgent
+生成时间: 2026-04-29 19:59:44
+LLM整理: 开启
+聚合结果数: 9
+深抓取结果数: 9
+
+===== LLM整理结果 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 中文文档、安装教程与社区
+单页整理结果: Hermes Agent是一个开源、自托管、支持长期记忆与技能的AI代理，可运行于本地电脑、VPS、Docker、SSH或云端开发环境，不依赖单一IDE。它会跨会话记住项目、偏好与工作习惯，将解决的问题沉淀为可复用技能。支持MCP、终端、文件、浏览器、图片、TTS等工具，通过cron调度实现日报、备份、巡检和提醒。消息入口包括Telegram、Discord、Slack、WhatsApp、Signal、企业微信、飞书、钉钉等。支持Qwen、GLM、Kimi、MiniMax、Claude、Gemini及OpenAI兼容接口和本地模型。与OpenClaw相比，用户反馈其上下文组织更紧凑、工具调用更透明，Token消耗可低至约30%。官方提供`hermes claw migrate`命令方便从OpenClaw迁移。中文文档涵盖安装教程、配置顺序、平台接入、MCP连接、长期记忆、技能沉淀、内置调度和40多种工具。Windows用户建议优先阅读Windows安装指南。该网站聚焦中文文档、安装教程与社区经验。
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent — 有记忆的开源 AI 智能体，越用越聪明
+单页整理结果: 基于网页内容，整理关键词“HermesAgent”的页面信息如下：Hermes Agent是Nous Research于2026年2月发布的开源自主AI智能体，采用MIT许可证。它是一个自托管、持久的个人智能体，部署在用户服务器上，通过连接消息账号工作。核心功能包括：跨会话持久记忆，自动创建可复用技能并兼容agentskills.io开放标准；支持Telegram、Discord、Slack、WhatsApp、Signal和CLI多平台接入，含语音备忘录转录；内置cron调度器，支持无人值守任务推送；可生成隔离子智能体并行工作，并通过RPC压缩多步骤工作流；具备网页搜索、页面提取、完整浏览器自动化、视觉分析、图像生成、文字转语音和多模型协作推理能力。它还作为平台支持生成训练数据、运行强化学习实验和导出轨迹用于微调，集成Atropos框架，支持ShareGPT格式导出。安装无需前置依赖，支持Linux、macOS和WSL2，通过curl命令一键完成，所有数据本地存储，无遥测或追踪。
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent — 自我进化的开源AI智能体框架 | 官方中文站
+单页整理结果: Hermes Agent 是由 Nous Research 打造的开源自主AI智能体框架，采用MIT许可证。它支持自我进化、持久记忆、技能自动学习，可接入15个以上消息平台与200个以上大模型。核心特性包括跨会话持久记忆、通过GEPA自我进化系统自动生成可复用技能文件，并支持生成隔离子代理并行处理复杂工作流。自v0.6.0起原生支持Model Context Protocol，v0.8.0引入MCP OAuth 2.1认证。提供六种部署选项：个人开发本地测试、Docker容器、远程服务器SSH、Serverless集群、高性能计算集群和按需唤醒的近零成本方案。安装支持Linux、macOS、WSL2和Android Termux，原生Windows需先安装WSL2，预装Git后由脚本自动处理依赖。Nous Research由Jeffrey Quesnelle创立，2026年2月发布Hermes Agent，刚完成Paradigm领投的五千万美元A轮融资，估值十亿美元。页面内容明确基于该官方中文站。
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 中文社区 - 与你共同成长的 AI 智能体
+单页整理结果: 根据页面内容，Hermes Agent 是由Nous Research打造的开源自进化AI智能体，部署在用户服务器上，越用越强，支持一键安装。它并非编程助手或聊天机器人，而是一个学习闭环的智能体。关键特点包括：支持微信、钉钉、飞书、企业微信、Telegram等15+平台，一个Gateway连通所有平台；兼容智谱AI、Kimi、MiniMax等国产大模型，无需适配；具有持久记忆和自动生成技能功能；可用自然语言设置定时任务；生成隔离子智能体，支持六种后端；基于uv自动安装Python 3.11和依赖，无需sudo，60秒完成。页面标题为“Hermes Agent中文社区”，网站为爱好者维护的非官方社区，版权标注为MIT License，年份2026。页面信息显示该智能体主要面向国内平台，强调自主性和能力持续积累。
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 中文社区日报 4月28日
+单页整理结果: 根据搜索摘要，该页面内容是关于“Hermes Agent中文社区日报 4月28日”的介绍，提及了Hermes Agent中文社区微信群的存在，并公开了一项视频教程，说明其包含Hermes Agent的三项实用高级用法，具体包括集成Ollama提供的免费本地/云端大模型。由于页面内容抓取失败，以上信息均来自搜索摘要，页面原始内容不足，无法提供更详细的事实、时间、主体或结论。
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 安装指南:2分钟快速部署你的第一个＂会成长的 AI 助手＂
+单页整理结果: 页面抓取失败，仅能基于搜索摘要整理。摘要提到 Hermes Agent 可通过在终端执行一条 bash 命令完成安装，命令为 “//res1. hermesagent .org.cn/install.sh | bash”。安装脚本会自动完成以下步骤：安装 uv（超快的 Python 包管理器）、克隆 Hermes Agent 仓库、以及执行后续配置。页面标题称此过程可在2分钟内快速部署一个“会成长的 AI 助手”。页面作者为“双木聊AI”。页面信息有限，未提供更详细的功能介绍、系统要求或限制条件。
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 中文社区日报 4月24日
+单页整理结果: Hermes Agent 中文社区日报 4月24日内容，页面抓取失败。根据搜索摘要，Hermes Agent 对中文理解能力与底层模型强相关，Gemma-4 等非中文强优化模型可能出现问题。页面信息有限。
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: HermesAgent 爆火GitHub:能自动进化的AI智能体,程序员的下一个神器?
+单页整理结果: 页面信息有限。根据搜索摘要，HermesAgent 是一款近期在GitHub上迅速崛起的开源AI智能体框架，引发了开发者社区热议。摘要未提供关于其具体功能、特性、开发者或使用限制的详细信息。
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent - 你的全能 AI 智能代理
+单页整理结果: 页面内容主要是宣传标语，称Hermes Agent为全能AI智能代理，强调其迅捷智慧、自动化任务和提升效率。网站域名为hermesagent.uk。页面信息有限，未提供具体功能、技术细节、发布时间或限制条件。
+
+===== 原始深抓取内容 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 中文文档、安装教程与社区
+搜索链接: https://hermesagent.org.cn/
+落地链接: https://hermesagent.org.cn/
+页面标题: Hermes Agent 中文文档、安装教程与社区 | Hermes Agent 中文社区
+页面内容: Docusaurus v3.9.2"> Hermes Agent 中文文档、安装教程与社区 | Hermes Agent 中文社区 <meta data-rh=
+开源、本地部署、越用越聪明的 AI Agent。 能运行在你的电脑、VPS 或 Docker 中， 铭记 Memory 教训 ，沉淀 Skills 技能 ， 并通过微信、飞书、电报等APP与你保持联系。
+Hermes Agent 可以运行在本地电脑、VPS、Docker、SSH 或云端开发环境中，不依赖单一 IDE，也不把你的工作流锁在网页聊天框里。
+它会跨会话记住你的项目、偏好与工作习惯，并把解决过的问题沉淀成可复用 Skill，越用越懂你。
+支持 MCP、终端、文件、浏览器、图片、TTS 等工具，还能通过 cron 调度实现日报、备份、巡检和提醒。
+通过 Telegram、Discord、Slack、WhatsApp、Signal、企业微信、飞书、钉钉等入口，让你的 Agent 持续在线。
+这个网站聚焦中文文档、安装教程、常见配置、社区经验与微信交流入口，帮助你更快从 0 到 1 上手。
+支持 Qwen、GLM、Kimi、MiniMax、Claude、Gemini，以及 OpenAI 兼容接口和本地模型，适合国内网络与工具环境。
+Hermes Agent 是一个开源、自托管、支持长期记忆与 Skills 的 AI Agent。它既能在终端中完成复杂任务，也能通过消息网关在微信、飞书、电报等平台上持续工作。
+建议先看中文安装教程与快速开始；如果你使用的是 Windows，请优先阅读 Windows 安装指南，再根据场景配置模型、工具和消息网关。
+按不少用户的直观体验，同样一类任务下，Hermes 的上下文组织更紧凑、工具调用更透明，Token 消耗往往比 OpenClaw 更低；有用户甚至反馈能低到约 30%。如果你希望 Agent 跑得更快、花费更省，同时还能保持任务质量，Hermes 更容易给出"又快又稳"的感觉。
+Hermes 的过程感更强：你更容易看懂它在做什么、为什么这样做、任务推进到了哪一步。更重要的是，它能把一次次执行经验沉淀成长期记忆、Skills 和上下文约定，不用你每次都重新喂 prompt、反复手工修 bug。它不是只完成一次任务，而是在持续学习你的工作方式。
+Hermes 官方直接提供 `hermes claw migrate`，可以把 OpenClaw 的配置、数据和工作区内容迁到 Hermes。对已经在用龙虾的用户来说，这几乎就是一条指令起步；再配合 `hermes profile` 做工作 / 个人 / 测试环境隔离，切换成本很低，后续管理也更清晰。
+覆盖 Windows PowerShell、WSL2、Linux、macOS、Docker、Termux 与 VPS 的中文安装路径，以及安装后的推荐配置顺序。
+聚合微信、Telegram、Discord、企业微信、飞书、钉钉等接入入口，帮你快速找到适合自己的消息平台。
+解释 MCP 是什么、如何连接 MCP Server、如何做工具过滤，以及适合哪些自动化与项目助手场景。
+Hermes 会通过长期记忆、会话检索、技能沉淀和用户画像，把一次次任务经验转化成之后可复用的能力。
+它可以运行在 VPS、Docker、SSH、Modal、Daytona 或本地环境，并通过 Telegram、Discord、Slack、WhatsApp、Signal、Email 和 CLI 与你对话。
+内置 cron 调度：日报、备份、巡检、信息抓取和提醒都可以用自然语言配置，并投递到你常用的平台。
+复杂任务完成后可以沉淀为技能，兼容 agentskills.io 开放格式，适合团队共享和社区贡献。
+提供 40+ 工具、工具集配置、命令审批、容器隔离、浏览器控制、视觉、图片生成、TTS 和多模型推理。
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent — 有记忆的开源 AI 智能体，越用越聪明
+搜索链接: https://hermes-agent.org/zh/
+落地链接: https://hermes-agent.org/zh/
+页面标题: Hermes Agent — 有记忆的开源 AI 智能体，越用越聪明
+页面内容: 自托管 AI 智能体，记住你的项目、自动创建技能，支持 Telegram、Discord 等多平台。MIT 开源，零追踪，越用越聪明。
+部署在你的服务器上，连接你的消息账号，它就成为你的持久个人智能体——学习你的项目、自动构建技能、随时随地触达你。不是聊天机器人，不是代码补全工具，而是一个住在你机器上、每天都在变聪明的智能体。
+Hermes Agent 将持久记忆、自动技能创建和多平台接入整合在一个开源包中。
+跨会话记住你的偏好、项目和环境。运行越久，越了解你——不再需要每次重新解释上下文。
+当 Hermes 解决了一个难题，它会写下可复用的技能文档，永远不会忘记解决方法。技能可搜索、可分享，兼容 agentskills.io 开放标准。
+通过单一网关进程连接 Telegram、Discord、Slack、WhatsApp、Signal 和 CLI。支持语音备忘录转录，跨平台无缝切换。在 Telegram 开始对话，在终端继续。
+内置 cron 调度器，可向任意平台推送。设置每日报告、夜间备份、每周审计和晨间简报——全部无人值守运行。
+为并行工作流生成隔离的子智能体，每个都有独立的对话和终端。通过 RPC 将多步骤流水线压缩为零上下文消耗的操作。
+网页搜索、页面提取、完整浏览器自动化——导航、点击、输入、截图。还支持视觉分析、图像生成、文字转语音和多模型协作推理。
+从沙箱代码执行到实时浏览器控制——Hermes Agent 全部搞定。
+Hermes Agent 是 Nous Research 开发的开源自主 AI 智能体，于 2026 年 2 月发布。它不是绑定在 IDE 上的代码补全工具，也不是套壳聊天机器人——它住在你的服务器上，记住它学到的一切，运行越久能力越强。支持 Linux、macOS 和 WSL2，一条 curl 命令即可安装，无需任何前置依赖。
+开源 · MIT 许可证 · Nous Research 出品。所有数据存储在你的机器上，无遥测、无追踪、无云端锁定。
+不只是任务自动化——Hermes Agent 是生成训练数据、运行 RL 实验、导出轨迹用于微调的完整平台。
+并行生成数千条工具调用轨迹，支持自动检查点。可配置工作进程数、批次大小和工具集分布。
+集成 Atropos 框架，对智能体行为进行强化学习。11 种工具调用解析器，支持任意模型架构训练。
+以 ShareGPT 格式导出对话用于微调。轨迹压缩功能可将训练数据压缩至 token 预算范围内。
+无需任何前置依赖，支持 Linux、macOS 和 WSL2，一键自动安装所有组件。
+自动安装 uv、Python 3.11，克隆仓库并完成所有配置，无需 sudo 权限。
+连接 Nous Portal（OAuth）、OpenRouter（API Key）或自定义端点，交互式向导引导完成配置。
+完整的交互式 CLI，内置工具、记忆和技能系统，就这么简单。
+引导式连接 Telegram、Discord、Slack 或 WhatsApp，以 systemd 服务方式后台运行。
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent — 自我进化的开源AI智能体框架 | 官方中文站
+搜索链接: https://hermesagentai.cn/
+落地链接: https://hermesagentai.cn/
+页面标题: Hermes Agent — 自我进化的开源AI智能体框架 | 官方中文站
+页面内容: Hermes Agent 是由 Nous Research 打造的开源自主AI智能体框架，支持自我进化、持久记忆、技能自动学习，接入15+消息平台与200+大模型。深入了解Hermes Agent核心架构与部署。
+Nous Research · Open Source · MIT License
+Hermes Agent 是一个会自我进化的AI智能体框架。使用 Hermes Agent，你获得的不是一个问答窗口，而是一个拥有持久记忆、能自动沉淀技能、运行越久越强的数字同事。Hermes Agent 不是工具，是同事。
+大多数AI助手每次对话从零开始。Hermes Agent 拒绝这种健忘症。
+Nous Research Est. 2023, Saratoga CA Series A $50M by Paradigm 估值 $1B 首发 2026.02.25
+2026年2月，Nous Research 发布了 Hermes Agent。这家由 Jeffrey Quesnelle 创立的公司刚完成 Paradigm 领投的五千万美元A轮融资，估值十亿美元。他们对现有AI工具的判断直截了当：聊天机器人的交互范式已经触顶。Hermes Agent 从设计之初的目标就不是「更好的对话」，而是「持续在线的数字员工」——一个能记住、能学习、能自主行动的智能体框架。
+传统AI助手是无状态的。对话结束，一切归零。Hermes Agent 颠覆了这个前提。它维护跨会话的持久记忆，在完成复杂任务后自动生成可复用的技能文件，并通过 GEPA 自我进化系统持续优化自身策略。Hermes Agent 官方将其定义为「The agent that grows with you」。这不是营销话术——而是 Hermes Agent 的技术架构决定的必然结果。
+构成 Hermes Agent 区别于所有同类框架的根本差异。
+从笔记本到 Serverless 集群，Hermes Agent 提供六种后端适配你的场景。
+Hermes Agent 支持生成隔离的子代理来并行处理复杂工作流。Python 脚本在子代理中获得 RPC 风格的工具调用能力，将多步骤程序压缩为单次回合。子代理彼此隔离，一个失败不会波及其他。这让 Hermes Agent 在处理大规模任务时具备真正的并发能力。
+自 v0.6.0 起 Hermes Agent 原生支持 Model Context Protocol，兼容 stdio 和 HTTP 双传输。v0.8.0 引入 MCP OAuth 2.1 认证。通过 MCP 协议，Hermes Agent 的能力边界被无限扩展——任何支持 MCP 的工具和服务都能被 Hermes Agent 直接调用。
+最简单的方式启动 Hermes Agent，适合个人开发和本地测试场景。
+在隔离容器中运行 Hermes Agent，确保宿主系统安全不受影响。
+将 Hermes Agent 部署在远程服务器，通过 SSH 通道远程操控 Hermes Agent。
+Serverless 架构下运行 Hermes Agent，空闲自动休眠，适合团队协作。
+面向高性能计算集群环境部署 Hermes Agent 的专用方案。
+按需唤醒，空闲近零成本，是运行 Hermes Agent 的最经济部署选择。
+不同框架优化不同维度。Hermes Agent 选择了学习深度，这张表格直观展示 Hermes Agent 的差异化优势。
+从零开始安装、配置、接入消息平台，手把手教你让 Hermes Agent 跑起来。
+Hermes Agent 支持 Linux、macOS、WSL2 和 Android Termux。原生 Windows 不受支持，必须先安装 WSL2。安装前唯一需要预装的是 Git，其余依赖由 Hermes Agent 安装脚本自动处理。
+如果你更偏好手动安装以精确控制 Hermes Agent 的依赖，也可以通过 git clone --recurse-submodules 克隆 Hermes Agent 仓库后，用 uv pip install -e ".[all]" 手动安装。Hermes Agent 会在 ~/.hermes/ 目录下创建完整的配置结构。
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent 中文社区 - 与你共同成长的 AI 智能体
+搜索链接: https://hermes-agent.org.cn/
+落地链接: https://hermes-agent.org.cn/
+页面标题: Hermes Agent 中文社区 - 与你共同成长的 AI 智能体
+页面内容: Hermes Agent 中文社区官网。由 Nous Research 打造的开源自进化 AI 智能体，支持微信、钉钉、飞书、企业微信等国产平台，兼容智谱AI、Kimi、MiniMax 等国产大模型。一键安装，持久记忆，自动技能学习。
+不是绑定在 IDE 里的编程助手，也不是套壳聊天机器人。 Hermes Agent 是一个 自主智能体 ， 部署在你的服务器上，记住学到的一切，运行时间越长能力越强。
+基于 uv 自动安装 Python 3.11 和所有依赖 · 无需 sudo · 60 秒完成
+不只是另一个 AI 框架 —— 它是唯一内置学习闭环的开源智能体
+微信、企业微信、钉钉、飞书、Telegram、Discord、Slack、WhatsApp、Signal、Email、CLI —— 一个 Gateway 连通所有平台。
+持久记忆 + 自动生成技能 —— 它记住你的项目，永远不会忘记如何解决过的问题。
+用自然语言设置定时任务 —— 日报、备份、巡检，全部自动运行，投递到任意平台。
+生成隔离的子智能体，拥有独立对话、终端和 Python RPC 脚本，零上下文开销的流水线。
+六种后端 —— 本地、Docker、SSH、Daytona、Singularity、Modal，容器加固 + 命名空间隔离。
+原生支持智谱 AI (GLM)、Kimi (Moonshot)、MiniMax、小米 MiMo 等国产大模型，无需适配。
+不需要第三方适配器，Hermes Agent 原生支持国内主流即时通讯和协作平台
+还支持 Telegram、Discord、Slack、WhatsApp、Signal、Email、SMS、Matrix、Home Assistant 等 15+ 平台
+基于 uv 自动安装 Python 3.11 和所有依赖，支持 Linux、macOS、WSL2
+交互式向导，支持 Nous Portal、OpenRouter、智谱AI、Kimi 等
+由 Nous Research 打造的开源自进化 AI 智能体。与你共同成长，越用越强。
+Hermes Agent 中文社区 · MIT License · 2026 · 非官方社区，由爱好者维护
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 中文社区日报 4月28日
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9n_87OSsf89nRNpZFBrKgyv_TF84z1citZKQKfVAIjmjQz58XeyFBU5yEsttLglahEoKT6JBYCIcehuWy_M8EVJVQl49UHw8u5mYQm3a8p98j-Zu3NGO1LLWc5q6-Mz744s_-oeHU-OcWk2A0jzMs-JHCLH31ZCfiGRiebxkqNEhe0WC6Sbi7DA..&type=2&query=HermesAgent&token=279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+落地链接: https://weixin.sogou.com/antispider/?from=%2Flink%3Furl%3Ddn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9n_87OSsf89nRNpZFBrKgyv_TF84z1citZKQKfVAIjmjQz58XeyFBU5yEsttLglahEoKT6JBYCIcehuWy_M8EVJVQl49UHw8u5mYQm3a8p98j-Zu3NGO1LLWc5q6-Mz744s_-oeHU-OcWk2A0jzMs-JHCLH31ZCfiGRiebxkqNEhe0WC6Sbi7DA..%26type%3D2%26query%3DHermesAgent%26token%3D279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+页面标题: Hermes Agent 中文社区日报 4月28日
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: Hermes Agent 中文社区微信群 12该视频教程公开了 Hermes Agent 的三项实用高级用法,包括集成 Ollama 提供的免费本地/云端大模... 恩佐的大书库 document.write(timeConvert('1777338181'))
+抓取说明: 目标页面返回了反爬或验证内容
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 安装指南:2分钟快速部署你的第一个＂会成长的 AI 助手＂
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9iCieLO1tXrIQ6AET74R5xcU_zN-f0asKITwsvlrg9IVt2aqY4YfzNPieNNxVxuY4nyvx3D-6gnx-3T7a97jhoUddRmk53WtPLgip4OO14SHVobJa1y-5_pJCuZvGdGWOYx26L_YWY5V5DkHGHnAhK3v6hH0HPShtPBg-AxegtQnRtmyIGw2VAg..&type=2&query=HermesAgent&token=279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+落地链接: https://weixin.sogou.com/antispider/?from=%2Flink%3Furl%3Ddn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9iCieLO1tXrIQ6AET74R5xcU_zN-f0asKITwsvlrg9IVt2aqY4YfzNPieNNxVxuY4nyvx3D-6gnx-3T7a97jhoUddRmk53WtPLgip4OO14SHVobJa1y-5_pJCuZvGdGWOYx26L_YWY5V5DkHGHnAhK3v6hH0HPShtPBg-AxegtQnRtmyIGw2VAg..%26type%3D2%26query%3DHermesAgent%26token%3D279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+页面标题: Hermes Agent 安装指南:2分钟快速部署你的第一个＂会成长的 AI 助手＂
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: //res1. hermesagent .org.cn/install.sh | bash安装脚本会自动完成以下所有步骤:安装 uv(超快的 Python 包管理器)克隆 Hermes Agent ... 双木聊AI document.write(timeConvert('1776698115'))
+抓取说明: 目标页面返回了反爬或验证内容
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: Hermes Agent 中文社区日报 4月24日
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9n_87OSsf89nRNpZFBrKgyv_TF84z1citZKQKfVAIjmjQz58XeyFBU3B1JpNZiJzaV4IU1Fvgqj048-bSDicnA_q7Bdhc4k2m6F3AggPkJJNh6Khw0uMw0KDI4wNXT47kOjcqKKzI9n22WdFwl4cyAT8el_nF5TebUquEcPNdm-ejotuuiAmOIg..&type=2&query=HermesAgent&token=279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+落地链接: https://weixin.sogou.com/antispider/?from=%2Flink%3Furl%3Ddn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9n_87OSsf89nRNpZFBrKgyv_TF84z1citZKQKfVAIjmjQz58XeyFBU3B1JpNZiJzaV4IU1Fvgqj048-bSDicnA_q7Bdhc4k2m6F3AggPkJJNh6Khw0uMw0KDI4wNXT47kOjcqKKzI9n22WdFwl4cyAT8el_nF5TebUquEcPNdm-ejotuuiAmOIg..%26type%3D2%26query%3DHermesAgent%26token%3D279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+页面标题: Hermes Agent 中文社区日报 4月24日
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: &yatg=GPU_YY_YX_ hermesagent .org.cn3. Hermes Agent 对中文理解能力与底层模型强相关,Gemma-4 等非中文强优化模型可能出... 恩佐的大书库 document.write(timeConvert('1777032720'))
+抓取说明: 目标页面返回了反爬或验证内容
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: HermesAgent 爆火GitHub:能自动进化的AI智能体,程序员的下一个神器?
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9PpaPyDae46_sSPatZZUOf2TC2HWywVlhKQRQm4YQmyBuhxHAYFfy5NjsUiKNDsT4amOYmGmHQH7YGaZnCvy-cQ9iZA6yQ7hFjhIW5ZBP6PuOcYAawBGH6WNvqE3qoVKR1CxiOfQDS6O9ny84_rlAadHV-dvjCRArKYZKzFmozaf2CsG6-xMgzQ..&type=2&query=HermesAgent&token=279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+落地链接: https://weixin.sogou.com/antispider/?from=%2Flink%3Furl%3Ddn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g1W6lbHDUH-n8_NVT0j4TOFqXa8Fplpd9PpaPyDae46_sSPatZZUOf2TC2HWywVlhKQRQm4YQmyBuhxHAYFfy5NjsUiKNDsT4amOYmGmHQH7YGaZnCvy-cQ9iZA6yQ7hFjhIW5ZBP6PuOcYAawBGH6WNvqE3qoVKR1CxiOfQDS6O9ny84_rlAadHV-dvjCRArKYZKzFmozaf2CsG6-xMgzQ..%26type%3D2%26query%3DHermesAgent%26token%3D279E8384EBA30DCFBBBCEB22A96ADFB3BB58EA1069F1F295
+页面标题: HermesAgent 爆火GitHub:能自动进化的AI智能体,程序员的下一个神器?
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 最近,一款名为 HermesAgent 的开源AI智能体框架在GitHub上迅速崛起,引发开发者社区热议.它凭什么这么火?什么是 HermesAgent ... 开源地理信息 document.write(timeConvert('1776738111'))
+抓取说明: 目标页面返回了反爬或验证内容
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent - 你的全能 AI 智能代理
+搜索链接: https://www.so.com/link?m=bkO2tsie259OvcY3IwKL%2BW8E7N52G4Ayke3aT3Z9jg2D9Wt8PHtiMJ%2F%2BMPKIjghpbXaM4Jjd4bgZgrOVmMim1UbsneTdjw3tBvo7wxWBB%2F%2BRWD81p
+落地链接: https://www.so.com/link?m=bkO2tsie259OvcY3IwKL%2BW8E7N52G4Ayke3aT3Z9jg2D9Wt8PHtiMJ%2F%2BMPKIjghpbXaM4Jjd4bgZgrOVmMim1UbsneTdjw3tBvo7wxWBB%2F%2BRWD81p
+页面标题: Hermes Agent - 你的全能 AI 智能代理
+页面内容: 像赫尔墨斯一样迅捷智慧。自动化任务、提升效率、释放 AI 的无限潜力。 AI 智能代理新时代 Hermes Agent 你的全能 AI 智能代理 像赫尔墨斯一样迅捷智慧。自动化任务、提升... hermesagent .uk 反馈

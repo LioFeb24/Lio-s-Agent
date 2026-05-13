@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local IDE settings
+.vscode/
+
+# Local docs excluded by request
+usage_format_llm_output.md
+
+# Local environments
+env/
+.venv/
+venv/
+
+# Runtime state and generated outputs
+EXEC/
+MEMORY/
+session_state/
+
+# Local configuration with secrets
+config.json

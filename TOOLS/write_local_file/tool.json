@@ -1,0 +1,143 @@
+{
+    "name": "write_local_file",
+    "display_name": "本地文件写入",
+    "description": "向本地文件系统写入 json、md、txt、csv、yaml、html 等文本文件，支持自动建目录与覆盖/追加模式。",
+    "enabled": true,
+    "aliases": [
+        "local_file_writer",
+        "save_file",
+        "write_file"
+    ],
+    "entry": {
+        "file": "write_local_file.py",
+        "function": "run"
+    },
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "file_path": {
+                "type": "string",
+                "description": "目标文件路径，支持绝对路径和相对路径"
+            },
+            "content": {
+                "description": "要写入的内容；文本会直接写入，结构化数据会按格式序列化"
+            },
+            "format": {
+                "type": "string",
+                "enum": [
+                    "auto",
+                    "json",
+                    "md",
+                    "markdown",
+                    "txt",
+                    "text",
+                    "csv",
+                    "yaml",
+                    "yml",
+                    "html"
+                ],
+                "description": "目标格式，默认 auto"
+            },
+            "mode": {
+                "type": "string",
+                "enum": [
+                    "overwrite",
+                    "append",
+                    "create"
+                ],
+                "description": "写入模式，默认 overwrite"
+            },
+            "ensure_parent_dirs": {
+                "type": "boolean",
+                "description": "是否自动创建父目录，默认 true"
+            },
+            "encoding": {
+                "type": "string",
+                "description": "文本编码，默认 utf-8"
+            },
+            "newline": {
+                "type": "string",
+                "enum": [
+                    "auto",
+                    "lf",
+                    "crlf"
+                ],
+                "description": "换行风格，默认 auto"
+            },
+            "json_indent": {
+                "type": "integer",
+                "description": "JSON 缩进空格数，默认 2"
+            },
+            "csv_delimiter": {
+                "type": "string",
+                "description": "CSV 分隔符，默认逗号"
+            },
+            "csv_include_header": {
+                "type": "boolean",
+                "description": "对象数组转 CSV 时是否写入表头，默认 true"
+            }
+        },
+        "required": [
+            "file_path",
+            "content"
+        ],
+        "additionalProperties": false
+    },
+    "output_schema": {
+        "type": "object",
+        "properties": {
+            "tool_name": {
+                "type": "string"
+            },
+            "resolved_path": {
+                "type": "string"
+            },
+            "format": {
+                "type": "string"
+            },
+            "mode": {
+                "type": "string"
+            },
+            "existed_before": {
+                "type": "boolean"
+            },
+            "bytes_written": {
+                "type": "integer"
+            },
+            "encoding": {
+                "type": "string"
+            },
+            "created_parent_dirs": {
+                "type": "boolean"
+            },
+            "message": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "tool_name",
+            "resolved_path",
+            "format",
+            "mode",
+            "existed_before",
+            "bytes_written",
+            "encoding",
+            "created_parent_dirs",
+            "message"
+        ]
+    },
+    "examples": {
+        "tool_command": {
+            "name": "write_local_file",
+            "args": {
+                "file_path": "C:/work/output/demo.yaml",
+                "content": {
+                    "name": "demo",
+                    "enabled": true
+                },
+                "format": "yaml",
+                "mode": "overwrite"
+            }
+        }
+    }
+}

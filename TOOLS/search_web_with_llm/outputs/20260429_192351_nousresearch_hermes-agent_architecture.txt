@@ -1,0 +1,127 @@
+关键词: nousresearch hermes-agent architecture
+生成时间: 2026-04-29 19:23:51
+LLM整理: 开启
+聚合结果数: 9
+深抓取结果数: 9
+
+===== LLM整理结果 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: NOUS RESEARCH - Open Source AI
+单页整理结果: 页面内容仅为Nous Research的简介，称其是美国开源AI运动领导者，训练世界级开源语言模型，并构建基础设施协调分布式、无偏见的训练。页面未提及"hermes-agent architecture"相关内容，信息十分有限。
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent — The Agent That Grows With You | Nous Research
+单页整理结果: 关键词"nousresearch hermes-agent architecture"对应的网页内容整理如下：页面由Nous Research发布，标题为“Hermes Agent — The Agent That Grows With You”。该页面介绍一个开源智能体，特点是能自主学习项目并构建自身技能，无需绑定IDE或单一API。它能在用户服务器上运行，具备持久记忆与自动生成技能功能。支持多平台接入，包括Telegram、Discord、Slack、WhatsApp、Signal、Email、CLI等。提供自然语言cron调度，可运行报告、备份和简报。包含隔离子智能体，支持独立对话、终端和Python RPC脚本。后端选项有五个：本地、Docker、SSH、Singularity、Modal，提供容器强化和命名空间隔离。功能包括网络搜索、浏览器自动化、视觉、图像生成、文本转语音和多模型推理。页面信息有限，未进一步描述架构细节。
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Releases - NOUS RESEARCH
+单页整理结果: 基于页面内容，仅包含“ARTIFICIAL INTELLIGENCE MADE HUMAN”以及多个社交媒体链接（HuggingFace、Discord、LinkedIn、Twitter、Email、GitHub、Careers），未提及“nousresearch hermes-agent architecture”的具体信息。页面信息有限，无法整理相关内容。
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: Nous Portal
+单页整理结果: 根据搜索摘要，Nous Research专注于开发以人为中心的语言模型和模拟器，其Nous Portal页面提供账户和API密钥管理功能。由于页面内容抓取失败，未能获取“nousresearch hermes-agent architecture”相关详细信息。当前信息仅表明该页面为Nous Research的入口平台，用于用户账户及API密钥管理，未涉及架构、Agent或Hermes模型的具体说明。页面信息有限。
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: 会自我进化的 Agent : Nous Research 开源 Hermes 的核心逻辑
+单页整理结果: 页面内容抓取失败，无法提供详细整理。根据搜索摘要，关键词“nousresearch hermes-agent architecture”对应的网页标题为“会自我进化的 Agent : Nous Research 开源 Hermes 的核心逻辑”，原始摘要提及了Hermes Agent架构的开发者指南文档链接，并标注了文章仅做学术用途，包含加群互助信息及发布时间的处理代码。由于页面信息有限，无法给出更多具体事实、时间或结论。
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: Nous Research 发布 Hermes Agent :首个能自我进化的 AI 智能体,从 Telegram 到云端,随时待命
+单页整理结果: 页面内容抓取失败，仅提供搜索摘要。摘要提及Hermes Agent由Nous Research发布，自称是首个能自我进化的AI智能体，可从Telegram到云端随时待命。关键网址包括hermes-agent.nousresearch.com和GitHub仓库NousResearch/hermes-agent，另附文档页面hermes-agent.nousresearch.com/docs。页面信息有限，无法提供更多架构细节或具体功能。
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: 深度 研究 | Hermes 记忆系统深度解析:四层架构如何重塑 Agent 记忆范式
+单页整理结果: 该页面内容抓取失败，仅提供搜索摘要。摘要显示，该网页主题可能涉及Hermes Agent的技术架构，并与OpenClaw进行比较，但未提供任何具体事实、时间、主体或结论。页面信息有限。
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: 「 研究 手札」 Agent 关键特性深度 研究 报告:优化方案与横向对比
+单页整理结果: 根据搜狗微信搜索摘要，该页面主题为“研究手札” Agent 关键特性深度研究报告，内容涉及优化方案与横向对比。具体提到子代理系统（Sub-Agent Architecture）的核心问题与解耦方法，并包含链接指向 hermes-agent.nousresearch.com 以及自进化系统的 GitHub 仓库。由于页面内容抓取失败，仅能基于摘要提供上述有限信息。
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent 性能基准测试工具:设计与实现-CSDN博客
+单页整理结果: 该网页内容整理自CSDN博客，发布日期为2026年4月19日。内容围绕“Hermes Agent性能基准测试工具”展开，但页面信息有限，主要提供了该项目的免费下载链接（指向GitCode上的hermes-agent项目仓库），并提及该工具用于评估AI智能体任务处理。未详细说明架构设计、技术实现细节或具体测试方法。
+
+===== 原始深抓取内容 =====
+1. 来源搜索引擎: 必应RSS
+搜索标题: NOUS RESEARCH - Open Source AI
+搜索链接: https://nousresearch.com/
+落地链接: https://nousresearch.com/
+页面标题: NOUS RESEARCH - Open Source AI
+页面内容: Nous Research is a leader in the American open source AI movement, training world-class open source language models.
+Nous Research is a leader in the American open source AI movement. We train world-class open source language models and build infrastructure to coordinate distributed, unbiased training.
+ARTIFICIAL INTELLIGENCE MADE HUMAN
+→ HuggingFace → Discord → LinkedIn → Twitter → Email → GitHub → Careers
+
+2. 来源搜索引擎: 必应RSS
+搜索标题: Hermes Agent — The Agent That Grows With You | Nous Research
+搜索链接: https://hermes-agent.nousresearch.com/
+落地链接: https://hermes-agent.nousresearch.com/
+页面标题: Hermes Agent — The Agent That Grows With You | Nous Research
+页面内容: An open-source agent that grows with you — learns your projects, builds its own skills, and reaches you wherever you are. By Nous Research.
+Not a coding copilot tethered to an IDE or a chatbot wrapper around a single API. An autonomous agent that lives on your server, remembers what it learns, and gets more capable the longer it runs.
+Telegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. Start on one, pick up on another.
+Persistent memory and auto-generated skills — it learns your projects and never forgets how it solved a problem.
+Natural language cron scheduling for reports, backups, and briefings — running unattended through the gateway.
+Isolated subagents with their own conversations, terminals, and Python RPC scripts for zero-context-cost pipelines.
+Five backends — local, Docker, SSH, Singularity, Modal — with container hardening and namespace isolation.
+Web search, browser automation, vision, image generation, text-to-speech, and multi-model reasoning.
+
+3. 来源搜索引擎: 必应RSS
+搜索标题: Releases - NOUS RESEARCH
+搜索链接: https://nousresearch.com/releases
+落地链接: https://nousresearch.com/releases
+页面标题: Releases - NOUS RESEARCH
+页面内容: ARTIFICIAL INTELLIGENCE MADE HUMAN
+→ HuggingFace → Discord → LinkedIn → Twitter → Email → GitHub → Careers
+
+4. 来源搜索引擎: 必应RSS
+搜索标题: Nous Portal
+搜索链接: https://portal.nousresearch.com/login/humanity
+落地链接: https://portal.nousresearch.com/login/humanity
+页面标题: Nous Portal
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: Nous Research is a leader in the development of human-centric language models and simulators. Manage your account and API keys here.
+抓取说明: HTTP Error 429: Too Many Requests
+
+5. 来源搜索引擎: 搜狗微信
+搜索标题: 会自我进化的 Agent : Nous Research 开源 Hermes 的核心逻辑
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd95Hoyiv8stVsiv82RNulvkPIKWn2s6r7D8PAF1E4xalzXR_VbJY6WMmoUrVoB5Hsv4kVLcBuaPytM8xTz1WXUBvDGSPAyuQyt78OOdRGwKBKAxtSgaWveG_3ji4a-jk0kF8TYVi0_j_M2uzdbdnup495nAJyN0mLBG8VokZaLVtTYl_Q5RRZQjg..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd95Hoyiv8stVsiv82RNulvkPIKWn2s6r7D8PAF1E4xalzXR_VbJY6WMmoUrVoB5Hsv4kVLcBuaPytM8xTz1WXUBvDGSPAyuQyt78OOdRGwKBKAxtSgaWveG_3ji4a-jk0kF8TYVi0_j_M2uzdbdnup495nAJyN0mLBG8VokZaLVtTYl_Q5RRZQjg..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+页面标题: 会自我进化的 Agent : Nous Research 开源 Hermes 的核心逻辑
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: // hermes-agent . nousresearch .com/docs/developer-guide/ architecture —THE END—公众号后台回复「加群」加入互助群.文章仅做学术... 计算机视觉与机器学习 document.write(timeConvert('1776613946'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd95Hoyiv8stVsiv82RNulvkPIKWn2s6r7D8PAF1E4xalzXR_VbJY6WMmoUrVoB5Hsv4kVLcBuaPytM8xTz1WXUBvDGSPAyuQyt78OOdRGwKBKAxtSgaWveG_3ji4a-jk0kF8TYVi0_j_M2uzdbdnup495nAJyN0mLBG8VokZaLVtTYl_Q5RRZQjg..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35' (found at least ' ')
+
+6. 来源搜索引擎: 搜狗微信
+搜索标题: Nous Research 发布 Hermes Agent :首个能自我进化的 AI 智能体,从 Telegram 到云端,随时待命
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd902osWB7WsKCYtyE3NOt7LqSQpwBRA-hpJ-2tS_JWwcQfgbQgGp-UFs1G8R_mtDA-72GGOFfGigSYp1xXiWku5SxkaWN3DjaGs2FdYQxt0eodsMcBRdgpGgL04ngWO3VIqll4mn2CFa83eYoBC1dY5Npsd29E1Zusx1cJE5wd8y5S6t2rFt2rnA..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd902osWB7WsKCYtyE3NOt7LqSQpwBRA-hpJ-2tS_JWwcQfgbQgGp-UFs1G8R_mtDA-72GGOFfGigSYp1xXiWku5SxkaWN3DjaGs2FdYQxt0eodsMcBRdgpGgL04ngWO3VIqll4mn2CFa83eYoBC1dY5Npsd29E1Zusx1cJE5wd8y5S6t2rFt2rnA..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+页面标题: Nous Research 发布 Hermes Agent :首个能自我进化的 AI 智能体,从 Telegram 到云端,随时待命
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: hermes-agent . nousresearch .comGitHub : github.com/ NousResearch / hermes-agent 文档 : hermes-agent . nousresearch .com/docs你希望... IT笔试题 document.write(timeConvert('1773711866'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd902osWB7WsKCYtyE3NOt7LqSQpwBRA-hpJ-2tS_JWwcQfgbQgGp-UFs1G8R_mtDA-72GGOFfGigSYp1xXiWku5SxkaWN3DjaGs2FdYQxt0eodsMcBRdgpGgL04ngWO3VIqll4mn2CFa83eYoBC1dY5Npsd29E1Zusx1cJE5wd8y5S6t2rFt2rnA..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35' (found at least ' ')
+
+7. 来源搜索引擎: 搜狗微信
+搜索标题: 深度 研究 | Hermes 记忆系统深度解析:四层架构如何重塑 Agent 记忆范式
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd9BF8qESNPiE6aqlcrYmE72IgVlpYI-zKD4PVeEGHdGTVM1oM9y1YJflriQHfc5nejoq2MhROSIlsimHs3qdgSo2hqEZL4aN06tyY4GzeETDibck1Y_kboweB3vFvlhUebJ71wi9bx5GJTYd31ZBJcbG8Q2SvTQlo0JoHYLMx2cLLYl_Q5RRZQjg..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd9BF8qESNPiE6aqlcrYmE72IgVlpYI-zKD4PVeEGHdGTVM1oM9y1YJflriQHfc5nejoq2MhROSIlsimHs3qdgSo2hqEZL4aN06tyY4GzeETDibck1Y_kboweB3vFvlhUebJ71wi9bx5GJTYd31ZBJcbG8Q2SvTQlo0JoHYLMx2cLLYl_Q5RRZQjg..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+页面标题: 深度 研究 | Hermes 记忆系统深度解析:四层架构如何重塑 Agent 记忆范式
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: hermes-agent . nousresearch .com相关阅读Inside Hermes Agent: A Deep Dive into Its Technical ArchitectureHermes vs OpenClaw: The ... 大模型视界 document.write(timeConvert('1776730246'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd9BF8qESNPiE6aqlcrYmE72IgVlpYI-zKD4PVeEGHdGTVM1oM9y1YJflriQHfc5nejoq2MhROSIlsimHs3qdgSo2hqEZL4aN06tyY4GzeETDibck1Y_kboweB3vFvlhUebJ71wi9bx5GJTYd31ZBJcbG8Q2SvTQlo0JoHYLMx2cLLYl_Q5RRZQjg..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35' (found at least ' ')
+
+8. 来源搜索引擎: 搜狗微信
+搜索标题: 「 研究 手札」 Agent 关键特性深度 研究 报告:优化方案与横向对比
+搜索链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd9PBw1xblbRcB0tTPJWpZYZCvkKzB3rZE6qSEINNqLwY7MUlbNXRbZH-1vuE6TBQpkht9mtJstexO26N2L_uM0DSEOI06ZhX3w97w5_7FjUYnYbHCEEE2-e2ngTbT-QfzKuUgvxVSufdXLCyERFwjWKGHPxDqkF7UrLmZF1T0T9P7zAjcIGepUqA..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+落地链接: https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd9PBw1xblbRcB0tTPJWpZYZCvkKzB3rZE6qSEINNqLwY7MUlbNXRbZH-1vuE6TBQpkht9mtJstexO26N2L_uM0DSEOI06ZhX3w97w5_7FjUYnYbHCEEE2-e2ngTbT-QfzKuUgvxVSufdXLCyERFwjWKGHPxDqkF7UrLmZF1T0T9P7zAjcIGepUqA..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35
+页面标题: 「 研究 手札」 Agent 关键特性深度 研究 报告:优化方案与横向对比
+页面内容: 页面抓取失败，使用搜索摘要作为兜底内容。
+原始摘要: 子代理系统(Sub -Agent Architecture )4.1 核心问题子代理系统解... https:// hermes-agent . nousresearch .com/自进化系统:https://github.... 不忍辜负的时光 document.write(timeConvert('1774957446'))
+抓取说明: URL can't contain control characters. '/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1--sCvZzZ_g2zSFDXhKXK_8_NVT0j4TOFqXa8Fplpd9PBw1xblbRcB0tTPJWpZYZCvkKzB3rZE6qSEINNqLwY7MUlbNXRbZH-1vuE6TBQpkht9mtJstexO26N2L_uM0DSEOI06ZhX3w97w5_7FjUYnYbHCEEE2-e2ngTbT-QfzKuUgvxVSufdXLCyERFwjWKGHPxDqkF7UrLmZF1T0T9P7zAjcIGepUqA..&type=2&query=nousresearch hermes-agent architecture&token=277159320D45E8285D580EC9CA5AFD865EDF272369F1EA35' (found at least ' ')
+
+9. 来源搜索引擎: 360搜索
+搜索标题: Hermes Agent 性能基准测试工具:设计与实现-CSDN博客
+搜索链接: https://www.so.com/link?m=z8Bj53K9jJlf6uMCy%2B4r7y5GySAVP55ppy7j6mABbOFqn%2F%2B8g%2BCd8FRYzcz6wJlt%2ByGh%2B4zjFeq5Srn5Ok6vJKc2iSYuzcCYGvvoLqOnKnmeljpzqt16DfS565OftMWXgP8VBESmvJNfEHUwYR3%2F4u6iRtIN2C%2BRRXmp1YUGtS6nDM%2Bu%2Bt70uGtksyWREUWjECwuN1Bn17MRK6jPN
+落地链接: https://www.so.com/link?m=z8Bj53K9jJlf6uMCy%2B4r7y5GySAVP55ppy7j6mABbOFqn%2F%2B8g%2BCd8FRYzcz6wJlt%2ByGh%2B4zjFeq5Srn5Ok6vJKc2iSYuzcCYGvvoLqOnKnmeljpzqt16DfS565OftMWXgP8VBESmvJNfEHUwYR3%2F4u6iRtIN2C%2BRRXmp1YUGtS6nDM%2Bu%2Bt70uGtksyWREUWjECwuN1Bn17MRK6jPN
+页面标题: Hermes Agent 性能基准测试工具:设计与实现-CSDN博客
+页面内容: 2026年4月19日 - 【免费下载链接】 hermes-agent 项目地址: https://gitcode.com/GitHub_Trending/he/hermes-agentHermes Agent性能基准测试工具是评估AI智能体任务处理... blog.csdn.net 反馈

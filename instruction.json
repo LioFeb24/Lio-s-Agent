@@ -1,0 +1,8 @@
+{
+    "add":{"instruction":"/add","info":"新建并切换到一个空白会话"},
+    "endsession":{"instruction":"/endsession","info":"结束当前会话并生成摘要，不自动新建会话"},
+    "rmsession":{"instruction":"/rmsession","info":"删除指定会话，实际使用格式为 /rmsession <session_id>"},
+    "rm":{"instruction":"/rm","info":"删除当前用户全部会话记录"},
+    "exec":{"instruction":"/exec","info":"进入本地执行流程，实际使用格式为 /exec <任务内容>"},
+    "session":{"instruction":"/session","info":"会话管理，使用 /session list、/session <session_id> 或兼容的 /session new"}
+}
