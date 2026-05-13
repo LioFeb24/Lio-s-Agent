@@ -1,0 +1,139 @@
+{
+    "agent": {
+        "system": "你是一个专业的助手，能够回答用户的问题。",
+        "user": "lio"
+    },
+    "llm": {
+        "summary": {
+            "key": "123",
+            "model": "deepseek-v4-pro",
+            "stream": false
+        },
+        "main_llm": {
+            "key": "123",
+            "model": "deepseek-v4-pro",
+            "stream": true,
+            "show_reasoning": true,
+            "reasoning_dim": true
+        },
+        "intent_router": {
+            "key": "123",
+            "model": "deepseek-v4-pro",
+            "stream": false,
+            "recent_rounds": 10
+        }
+    },
+    "gui": {
+        "window": {
+            "width": 1360,
+            "height": 860
+        },
+        "chat_font": {
+            "family": "微软雅黑",
+            "size": 11,
+            "bold": false,
+            "italic": false
+        },
+        "theme_preset": "IntelliJ Light",
+        "surface_style": {
+            "corner_radius": 8,
+            "shadow_blur": 9,
+            "shadow_offset_y": 3,
+            "shadow_alpha": 72,
+            "shadow_margin": 6,
+            "glass_opacity": 0.7,
+            "glass_blur": 12,
+            "enable_glass": true
+        },
+        "colors": {
+            "bg_color": "#F7F7F7",
+            "card_color": "#FFFFFF",
+            "panel_color": "#F3F3F3",
+            "input_box_color": "#FFFFFF",
+            "text_color": "#2B2B2B",
+            "subtext_color": "#6C707E",
+            "button_color": "#E6EBF5",
+            "button_hover": "#D6E4FF",
+            "primary_button": "#3574F0",
+            "primary_button_hover": "#4E8AF7",
+            "primary_text": "#FFFFFF",
+            "border_color": "#D9E2F2",
+            "selected_color": "#EAF2FF",
+            "reasoning_color": "#4B83CD",
+            "user_bubble": "#ECF4FF",
+            "ai_bubble": "#F4F7FF",
+            "system_bubble": "#F7F7F7",
+            "thinking_bubble": "#F0F3F9",
+            "exec_mode_border": "#F0A732",
+            "exec_mode_button": "#FFF1D6",
+            "exec_mode_button_hover": "#F7D59C",
+            "exec_mode_hint": "#9C6B00"
+        }
+    },
+    "exec": {
+        "retry_limit": 8,
+        "review_after_retry_limit": 3,
+        "max_steps": 20,
+        "max_expand_depth": 5,
+        "independent_llm_step_context_enabled": true,
+        "planner_runtime_context_enabled": true,
+        "planner_include_system_info": true,
+        "planner_include_project_info": true,
+        "planner_include_env_vars": true,
+        "planner_env_var_keys": [
+            "OS",
+            "COMSPEC",
+            "PATHEXT",
+            "PROCESSOR_ARCHITECTURE",
+            "NUMBER_OF_PROCESSORS",
+            "USERNAME",
+            "USERPROFILE",
+            "TEMP",
+            "TMP",
+            "VIRTUAL_ENV",
+            "CONDA_DEFAULT_ENV",
+            "NODE_ENV"
+        ],
+        "planner_project_entry_limit": 40
+    },
+    "skill_review": {
+        "threshold": 5.0
+    },
+    "skill_learning": {
+        "temp_validation_enabled": true,
+        "max_repair_rounds": 1
+    },
+    "sandbox": {
+        "enabled": false,
+        "provider": "cubesandbox",
+        "backend": "e2b",
+        "api_key": "",
+        "domain": "",
+        "template": "",
+        "timeout_seconds": 600,
+        "command_timeout_seconds": 120,
+        "workspace_root": "/workspace",
+        "sync_project_on_start": true,
+        "sync_back_to_host": false,
+        "kill_after_run": true,
+        "allow_external_paths": false,
+        "max_sync_files": 200,
+        "max_file_size_kb": 256,
+        "sync_include": [
+            "*.py",
+            "*.json",
+            "*.md",
+            "*.txt"
+        ],
+        "sync_ignore": [
+            "env/**",
+            ".git/**",
+            "__pycache__/**",
+            "EXEC/**",
+            "MEMORY/**",
+            "session_state/**",
+            "*.pyc"
+        ],
+        "envs": {}
+    }
+}

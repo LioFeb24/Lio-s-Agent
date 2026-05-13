@@ -13,8 +13,5 @@ env/
 .venv/
 venv/
 
-# Local configuration with secrets
-config.json
-
 # Local publish script
 local_publish.ps1
